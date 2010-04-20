@@ -1,9 +1,14 @@
+# Author::    Falko Zurell  (mailto:falko.zurell@gmail.com)
+# Copyright:: Copyright (c) 2010 Falko Zurell
+# License::   GNU FDL
+
 require 'rubygems'
 require 'net/http'
 require 'net/https'
 require 'yaml'
 require 'json/pure'
 
+# this class implements the Github API
 class GithubAPI
   
   BASE_URL = "http://github.com/api/v2/"
