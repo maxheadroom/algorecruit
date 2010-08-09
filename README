@@ -2,3 +2,13 @@ This project is the code collection for my diploma thesis on algorithmic recruit
 The idea is based on matt's blog post: http://www.hackdiary.com/2010/02/10/algorithmic-recruitment-with-github/
 
 Please bear with me as I'm not an coding artist. This is just for proof of concept for my thesis ;-)
+
+Workflow:
+
+ 1.) source src/setenv.sh
+ 2.) compile Java Ranker: javac Ranker.java
+ 3.) create mysql db (use one of the provided .sql files)
+ 4.) edit authconfig.yml with your credentials
+ 5.) run the network gathering: ruby create_location_from_github.rb "Berlin"
+ 6.) dump db to stash file: ruby dump_db2file.rb
+ 7.) run ranker: jruby rank.rb

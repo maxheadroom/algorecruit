@@ -1,6 +1,8 @@
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.text.DateFormat;
+import java.util.Date;
 
 import edu.uci.ics.jung.algorithms.importance.RandomWalkBetweenness;
 import edu.uci.ics.jung.algorithms.scoring.HITS;
@@ -22,15 +24,17 @@ public class Ranker {
                 count++;
             }
         }
-
-
+		long jetzt = System.currentTimeMillis();
+		System.out.println ("Start BC: " + System.currentTimeMillis() );
 			edu.uci.ics.jung.algorithms.importance.BetweennessCentrality<String, Integer> ranker = new edu.uci.ics.jung.algorithms.importance.BetweennessCentrality<String, Integer>(g);
 			ranker.step();
 			// System.out.println("RankScoreKey: " + ranker.getRankScoreKey());
 			ranker.setMaximumIterations(100);
 			ranker.setRemoveRankScoresOnFinalize(false);
 			ranker.evaluate();
-		
+			
+		System.err.println ("END BC: " + ((System.currentTimeMillis() - jetzt)/1000) );
+				
         HashMap<String,Double> result = new HashMap<String,Double>();
         for(String v : g.getVertices()) {
             result.put(v,ranker.getVertexRankScore(v));
@@ -56,7 +60,13 @@ public class Ranker {
             }
         }
         
+		long jetzt = System.currentTimeMillis();
+		System.out.println ("Start BC-Score: " + jetzt );
+		
 			edu.uci.ics.jung.algorithms.scoring.BetweennessCentrality<String, Integer> ranker = new edu.uci.ics.jung.algorithms.scoring.BetweennessCentrality<String, Integer>(g);
+			
+
+			System.err.println ("End BC-Score: " +  ((System.currentTimeMillis() - jetzt)/1000) );
 			
 		// System.out.println("BetweenessCentralityScoring: \n");
         HashMap<String,Double> result = new HashMap<String,Double>();
@@ -84,10 +94,15 @@ public class Ranker {
             }
         }
         
-
+		long jetzt = System.currentTimeMillis();
+		System.out.println ("Start Markov: " + jetzt );
+		
         KStepMarkov<String, Integer> mkpr = new KStepMarkov<String, Integer>(g, 5);
 		mkpr.setCumulative(false);
 		mkpr.evaluate();
+		
+		System.err.println ("End Markov: " + ((System.currentTimeMillis() - jetzt)/1000) );
+		
 		HashMap<String,Double> resultmk = new HashMap<String,Double>();
         for(String v : g.getVertices()) {
             resultmk.put(v,mkpr.getVertexScore(v));
@@ -109,12 +124,15 @@ public class Ranker {
             }
         }
         
-	
+		long jetzt = System.currentTimeMillis();
+		System.out.println ("Start HITS: " + jetzt );
+		
         HITS<String, Integer> mkpr = new HITS<String, Integer>(g);
 
 
 		mkpr.evaluate();
 		
+		System.err.println ("End HITS: " + ((System.currentTimeMillis() - jetzt)/1000)  );
 		
 		HashMap<String,Double> resultauth = new HashMap<String,Double>();
 		HashMap<String,Double> resulthub = new HashMap<String,Double>();
