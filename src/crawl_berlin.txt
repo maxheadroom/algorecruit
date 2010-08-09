@@ -1,0 +1,1083 @@
+Getting URLs
+Fetching for Berlin 
+Username: till
+Username: wabu
+Username: jezdez
+Username: mikiobraun
+Username: grosser
+Username: goerz
+Username: langalex
+Username: cmw
+Username: alxhh
+Username: phuesler
+Username: kichkasch
+Username: splitbrain
+Username: DanielLukic
+Username: maryrosecook
+Username: Bjoern
+Username: sstrauch
+Username: mkleine
+Username: wactbprot
+Username: tominsam
+Username: heimlich
+Username: riethmayer
+Username: weiss
+Username: KenanSulayman
+Username: polarity
+Username: soundcloud
+Username: rieck
+Username: akrennmair
+Username: mattmatt
+Username: sauspiel
+Username: markrambow
+Username: zeropaper
+Username: ashb
+Username: cthiel
+Username: mk
+Username: phillipoertel
+Username: pointblack
+Username: fronx
+Username: janl
+Username: jberkel
+Username: hungryblank
+Username: mattmatt
+Username: philippbosch
+Username: dawanda
+Username: jayniz
+Username: clemens
+Username: rmehner
+Username: lehmannro
+Username: rkh
+Username: starpeak
+Username: maetl
+Username: hollow
+Username: truemped
+Username: jri
+Username: myabc
+Username: jeanmartin
+Username: skddc
+Username: bitwig
+Username: lisp
+Username: DavidMcLaughlin
+Username: hvolkmer
+Username: florianb
+Username: joshdevins
+Username: mschlimp
+Username: scotchi
+Username: endor
+Username: Ephigenia
+Username: 343max
+Username: KiTo
+Username: robmi
+Username: nomadlabs
+Username: imedo
+Username: basicinside
+Username: peritus
+Username: the-architect
+Username: glennpow
+Username: Su-Shee
+Username: christoph2
+Username: mikezter
+Username: siebertm
+Username: spearwolf
+Username: janlelis
+Username: aekym
+Username: frane
+Username: tlossen
+Username: Feh
+Username: znarf
+Username: linki
+Username: lokijuhz
+Username: lenalena
+Username: rubyphunk
+Username: Tafkas
+Username: cbeier
+Username: tasmo
+Username: mattb
+Username: milianw
+Username: manuelmeurer
+Username: thomaswitt
+Username: Searle
+Username: erikstein
+Username: bennibu
+Username: harpax
+Username: yawn
+Username: patrik
+Username: gptwisted
+Username: berlinbrown
+Username: stefanw
+Username: buddybrand
+Username: ekellner
+Username: zerofudge
+Username: bk138
+Username: lgierth
+Username: thomasklein
+Username: bkw
+Username: ontje
+Username: johnjohndoe
+Username: JBScoutBerlin
+Username: Reiner030
+Username: cosmocode
+Username: BerlinerPaul
+Username: hagenburger
+Username: JonasJurczok
+Username: Overbryd
+Username: regular
+Username: benjixx
+Username: mpoullet
+Username: elbart
+Username: codders
+Username: Stefie
+Username: agnat
+Username: krono
+Username: argl
+Username: danielr
+Username: tsujigiri
+Username: mahono
+Username: fnordfish
+Username: phiros
+Username: finnlabs
+Username: carhartl
+Username: machisuji
+Username: juriglx
+Username: Winterstille
+Username: moktin
+Username: sheijk
+Username: sbl
+Username: mkhq
+Username: hukl
+Username: mathiasbroekelmann
+Username: dwabnitz
+Username: atomgas
+Username: steppicrew
+Username: achimbode
+Username: zonque
+Username: patgithub
+Username: tec
+Username: patperu
+Username: Mirroar
+Username: bauersman
+Username: juni0r
+Username: simonkro
+Username: csshsh
+Username: niklas
+Username: TPunkt
+Username: hoffjul
+Username: smalltalk
+Username: mkilling
+Username: kpolitowicz
+Username: normanrosner
+Username: bruell
+Username: samedi
+Username: borealkiss
+Username: r0man
+Username: b45ch1
+Username: romanb
+Username: hannestyden
+Username: felixjendrusch
+Username: v2px
+Username: Blackbit
+Username: ChristianS
+Username: vti
+Username: Aplusplus
+Username: pboy
+Username: kostia
+Username: maxschulze
+Username: schriftgestalt
+Username: klaste
+Username: lepetitmic
+Username: panique
+Username: edmacovaz
+Username: thomashille
+Username: hamoid
+Username: tomster
+Username: goldjunge
+Username: qubodup
+Username: nilclass
+Username: Kriesse
+Username: rti
+Username: urs
+Username: venthur
+Username: dynamix
+Username: rootman
+Username: neXter
+Username: tbecker
+Username: cweis
+Username: andreasfreier
+Username: gmthor
+Username: raebo
+Username: toto
+Username: steffenbew
+Username: stephrdev
+Username: grundprinzip
+Username: ErikAbele
+Username: andrewakko
+Username: rabschi
+Username: aadsm
+Username: tcurdt
+Username: levinalex
+Username: maxheadroom
+Username: chhu
+Username: magegu
+Username: fluxsaas
+Username: hellp
+Username: johannesh
+Username: kaspar
+Username: kaikuehne
+Username: noroute
+Username: degenhard
+Username: Gernot
+Username: matthiasr
+Username: Skomski
+Username: ole
+Username: peti
+Username: rglass
+Username: torbicki
+Username: splitbrain
+Username: oliverwehrens
+Username: thsturm
+Username: mataspetrikas
+Username: korbinian
+Username: sstrigler
+Username: febeling
+Username: buzz
+Username: addywaddy
+Username: stevieboy
+Username: bnutzinger
+Username: freestylez
+Username: mhagger
+Username: cre8radix
+Username: brsma
+Username: marijnh
+Username: jonasjonas
+Username: electronicbites
+Username: leberblock
+Username: felixge
+Username: omz
+Username: otype
+Username: moeffju
+Username: elus
+Username: armadillu
+Username: moviepilot
+Username: compuccino
+Username: RobRoy
+Username: jovoto
+Username: ericw
+Username: jensy
+Username: jwagener
+Username: schmidt
+Username: pht
+Username: Licenser
+Username: andylatte
+Username: strathausen
+Username: shivver
+Username: jweiss
+Username: fwg
+Username: colin
+Username: tkadauke
+Username: aka47
+Username: Impulsphase
+Username: upstream
+Username: cyphunk
+Username: adrianlang
+Username: tobiasbaehr
+Username: apfelfabrik
+Username: gamma
+Username: peritor
+Username: nilsen31
+Username: solving42
+Username: musicpicturesltd
+Username: martinrehfeld
+Username: jjbuckley
+Username: cofter
+Username: jonasvp
+Username: thilo
+Username: matthewling
+Username: roxority
+Username: straw
+Username: aFarkas
+Username: codebeige
+Username: benjaminkrause
+Username: nl2
+Username: tmetschke
+Username: tricknik
+Username: l5
+Username: iwache
+Username: vedam
+Username: eliego
+Username: infopark
+Username: plumento
+Username: mobilemelting
+Username: follmann
+Username: alexwilde
+Username: alexanderruch
+Username: GarstgerUnhold
+Username: yeah
+Username: yolk
+Username: kashif
+Username: pipewriter
+Username: hasselmm
+Username: harald
+Username: artfart
+Username: hansd
+Username: kesselborn
+Username: webwarelab
+Username: Sebu
+Username: Byron
+Username: svenfuchs
+Username: jo
+Username: wwk
+Username: laszlopapp
+Username: directededge
+Username: datanomisch
+Username: MyHammerOpenSource
+Username: FelixSchwarz
+Username: awhillas
+Username: sixtus
+Username: flosch
+Username: trapni
+Username: mbirth
+Username: alexschwartz
+Username: fl3a
+Username: t-lo
+Username: ema-fox
+Username: FROGGS
+Username: galfert
+Username: dom-mel
+Username: gingko
+Username: micha-de
+Username: janroesner
+Username: ChaosSteffen
+Username: aportale
+Username: FPurchess
+Username: grobie
+Username: musial-bright
+Username: peutetre
+Username: kiwi-service
+Username: christoph-buente
+Username: dAnjou
+Username: rocket-rentals
+Username: clamatosoftware
+Username: juvenn
+Username: misterbojangles
+Username: njh
+Username: predominant
+Username: eserte
+Username: aatiis
+Username: szabgab
+Username: chrislo
+Username: aom
+Username: max-koehler
+Username: mseppae
+Username: orangeman
+Username: berlin-ab
+Username: razibue
+Username: jups23
+Username: frickm
+Username: notfb
+Username: baccenfutter
+Username: chluehr
+Username: marcelb
+Username: christianbader
+Username: larskuhnt
+Username: dryas
+Username: robertstulle
+Username: sohin
+Username: i0rek
+Username: ziad
+Username: edenspiekermann
+Username: phunkwork
+Username: ellingen
+Username: wielinde
+Username: jeffsimons
+Username: ibrow
+Username: kr1sp1n
+Username: JanChristiansen
+Username: heaven7
+Username: Roelven
+Username: fabianmu
+Username: henmue
+Username: ManuelKiessling
+Username: mog-labs
+Username: mattb
+Username: drewfarris
+Username: drewfarris
+Number of results: 402 
+Server version: 5.1.38
+/api/v2/yaml/user/show/till/followers
+UserInfo for till: 	companynameTill Klampaeckelgravatar_id1e078b34687f7a685b078ac7b0b02a55created_at2008/09/30 15:08:46 -0700locationBerlin, Germanybloghttp://merged.till.klampaeckel.depublic_gist_count6public_repo_count41following_count6id27003typeUserfollowers_count20logintillemailtill@php.net
+		User: till not in DB... inserting
+UserInfo for peritus: 	companynameFilip Noetzelgravatar_id88e66469431b52ecccb22a51eca1a221created_at2008/05/21 03:36:43 -0700locationBerlin, Germanybloghttp://filip.noetzel.co.ukpublic_gist_count4public_repo_count6following_count33id11022typeUserfollowers_count25loginperitusemail
+		User: peritus not in DB... inserting
+UserInfo for max-horvath: 	companyVodafone Group ServicesnameMax Horvathgravatar_id9c9e0f4c3af438c2a9caa25b27b66caacreated_at2009/05/07 01:30:25 -0700locationDusseldorf, Germanybloghttp://www.maxhorvath.compublic_gist_count2public_repo_count9following_count20id81949typeUserfollowers_count10loginmax-horvathemailinfo@maxhorvath.com
+		User: max-horvath not in DB... inserting
+UserInfo for ashnazg: 	gravatar_idb27fe292c68b5b0e482d7104bb1d87cccreated_at2009/06/29 18:46:28 -0700public_gist_count0public_repo_count0following_count22id100170typeUserfollowers_count4loginashnazg
+		User: ashnazg not in DB... inserting
+UserInfo for jeffhodsdon: 	companyDiggnameJeff Hodsdongravatar_id21d86c0809022cf8b9d136233c584240created_at2008/12/16 11:46:03 -0800locationSan Franciscoblogjeffhodsdon.compublic_gist_count0public_repo_count4following_count16id40832typeUserfollowers_count13loginjeffhodsdonemail
+		User: jeffhodsdon not in DB... inserting
+UserInfo for jauderho: 	companynameJauder Hogravatar_id0b9bc66eba92d28f8d00af9e4a2f5b68created_at2008/06/12 20:12:38 -0700locationbloghttp://codecrumb.posterous.com/public_gist_count35public_repo_count7following_count7id13562typeUserfollowers_count1loginjauderhoemail
+		User: jauderho not in DB... inserting
+UserInfo for janl: 	companynameJan Lehnardtgravatar_id2af516fdc33afea661fb3b32c769c9cccreated_at2008/05/23 09:58:22 -0700locationBerlin, Germanybloghttp://jan.prima.de/plok/public_gist_count3public_repo_count88following_count74id11321typeUserfollowers_count218loginjanlemailjan@apache.org
+		User: janl not in DB... inserting
+UserInfo for mattmatt: 	companyPeritornameMathias Meyergravatar_id4d9dd9bd8d3d4d0ba8af2acc41d14006created_at2008/04/06 01:53:03 -0700locationBerlin, Germanybloghttp://www.paperplanes.depublic_gist_count50public_repo_count65following_count77id5373typeUserfollowers_count91loginmattmattemailmeyer@paperplanes.de
+		User: mattmatt not in DB... inserting
+UserInfo for hamstar: 	companynamegravatar_id181f84458d1a3018f43a886df17ccb5ccreated_at2009/10/17 19:15:05 -0700locationNew Zealandblogpublic_gist_count1public_repo_count13following_count4id141157typeUserfollowers_count2loginhamstaremailhamstar@telescum.co.nz
+		User: hamstar not in DB... inserting
+UserInfo for rmehner: 	companyCoding RobinnameRobin Mehnergravatar_id518f667e2d25b04fd5755987c504fccdcreated_at2009/05/07 06:57:13 -0700locationBerlin, Germanybloghttp://coding-robin.depublic_gist_count5public_repo_count9following_count11id82050typeUserfollowers_count9loginrmehneremailrobin@coding-robin.de
+		User: rmehner not in DB... inserting
+UserInfo for thilo: 	companyUpstream-Agile GmbHnameThilo Utkegravatar_id64e6a7c4fc34690355c970f58b7347d1created_at2008/04/25 04:25:20 -0700locationBerlinbloghttp://upstre.am/blog/public_gist_count12public_repo_count20following_count14id8471typeUserfollowers_count19loginthiloemail
+		User: thilo not in DB... inserting
+UserInfo for endor: 	companyNotJustHosting GbRnameFrank Prößdorfgravatar_idc2e7032b2358688f13f7df320ddd73fecreated_at2008/08/18 06:59:07 -0700locationBerlinblogpublic_gist_count0public_repo_count5following_count16id21019typeUserfollowers_count9loginendoremailfp@notjusthosting.com
+		User: endor not in DB... inserting
+UserInfo for andywenk: 	companyNetzmeister St.PaulinameAndreas Wenkgravatar_id2c6a4dfe7b9960ebbe97aabcc84f35b7created_at2009/02/03 12:03:10 -0800locationHamburg / Germanybloghttp://blog.netzmeister-st-pauli.compublic_gist_count14public_repo_count13following_count25id51517typeUserfollowers_count6loginandywenkemailandy@nms.de
+		User: andywenk not in DB... inserting
+UserInfo for chaunceyt: 	companynameChauncey Thorngravatar_idb457e7be0197abf10d5768f16b408085created_at2009/01/02 19:33:20 -0800locationNYbloghttp://cthorn.compublic_gist_count0public_repo_count8following_count16id43881typeUserfollowers_count1loginchaunceytemailchaunceyt@gmail.com
+		User: chaunceyt not in DB... inserting
+UserInfo for dazz: 	gravatar_id5fcfa864ae04004e92416a5ea05d5ffacreated_at2010/01/15 05:54:20 -0800public_gist_count0public_repo_count0following_count3id182954typeUserfollowers_count0logindazz
+		User: dazz not in DB... inserting
+UserInfo for robo47: 	companynameBenjamin Steiningergravatar_ide1137db23a49c35f04f03189f951535acreated_at2009/07/30 17:53:50 -0700locationWeiher im tiefsten Odenwaldbloghttp://www.robo47.netpublic_gist_count0public_repo_count4following_count39id110477typeUserfollowers_count1loginrobo47email
+		User: robo47 not in DB... inserting
+UserInfo for metoikos: 	companyEgnity NetworknameYılmaz Uğurlugravatar_id95128fefcda5b18230162986117f6db8created_at2009/07/21 14:11:59 -0700locationIstanbul / Turkeybloghttp://www.2nci.compublic_gist_count0public_repo_count0following_count10id107426typeUserfollowers_count5loginmetoikosemailyilugurlu@ymail.com
+		User: metoikos not in DB... inserting
+UserInfo for ErikAbele: 	companynameErik Abelegravatar_id59256d795fe1f700f070ea61fdb59f83created_at2010/01/19 15:26:02 -0800locationBerlin, Germanybloghttp://www.codefaktor.de/public_gist_count1public_repo_count3following_count15id185813typeUserfollowers_count6loginErikAbeleemail
+		User: ErikAbele not in DB... inserting
+UserInfo for Overbryd: 	companynameLukas Riedergravatar_id171de85d4d79cb7afe725174fb099137created_at2008/08/18 23:58:41 -0700locationBerlin, Germanyblogpublic_gist_count6public_repo_count15following_count10id21111typeUserfollowers_count8loginOverbrydemaill.rieder@gmail.com
+		User: Overbryd not in DB... inserting
+UserInfo for ManuelKiessling: 	companyMY-HAMMER AktiengesellschaftnameManuel Kiesslinggravatar_idbc1fa8cb1c93827033c78fb0f5e6885acreated_at2010/02/19 01:10:10 -0800locationBerlin, Germanybloghttp://www.myhammer.de/public_gist_count1public_repo_count3following_count21id206592typeUserfollowers_count3loginManuelKiesslingemailkiessling@myhammer.de
+		User: ManuelKiessling not in DB... inserting
+UserInfo for dirkaholic: 	companyVZnet Netzwerke Ltd.nameDirk Pahlgravatar_id16553be76f784cb0676689300e9b8e2bcreated_at2009/12/08 05:42:46 -0800locationbloghttp://developer.studivz.netpublic_gist_count0public_repo_count2following_count35id164408typeUserfollowers_count2logindirkaholicemail
+		User: dirkaholic not in DB... inserting
+/api/v2/yaml/user/show/till/following
+UserInfo for furf: 	companyfurf, inc.nameDave Furferogravatar_id19b51771fdf4ddfca60ff7b51b5f42c8created_at2008/11/20 19:16:22 -0800locationNew York, NYbloghttp://furf.compublic_gist_count43public_repo_count22following_count9id35775typeUserfollowers_count20loginfurfemail
+		User: furf not in DB... inserting
+		 FollowerID of janl = 7
+		 FollowerID of mattmatt = 8
+		 FollowerID of thilo = 11
+UserInfo for pear2: 	companynamePEAR2gravatar_id23393a72f75b4be28137a52cc5502e69created_at2009/06/23 06:40:51 -0700locationbloghttp://pear2.php.net/public_gist_count0public_repo_count1following_count0id98180typeUserfollowers_count5loginpear2emailpear-group@php.net
+		User: pear2 not in DB... inserting
+UserInfo for sh1mmer: 	companyYahoo! Inc.nameTom Hughes-Crouchergravatar_id3d4f44f53449c200aa4fa268fea765e4created_at2008/12/01 17:10:01 -0800locationSan Francisco, CA, USAbloghttp://kid666.compublic_gist_count13public_repo_count19following_count25id37673typeUserfollowers_count43loginsh1mmeremailtom_croucher@yahoo.com
+		User: sh1mmer not in DB... inserting
+/api/v2/yaml/user/show/wabu/followers
+UserInfo for wabu: 	companynameDaniel Waebergravatar_idccb8d807ff33b881c3953fef0c00f62fcreated_at2008/12/08 13:10:58 -0800locationBerlin/Germanyblogpublic_gist_count1public_repo_count5following_count3id39164typeUserfollowers_count1loginwabuemail_wabu@web.de
+		User: wabu not in DB... inserting
+UserInfo for notfb: 	companynameFabian Biekergravatar_id45b74de04100a29c3f9c6521685a8cb5created_at2010/02/14 07:52:22 -0800locationBerlinblogpublic_gist_count0public_repo_count4following_count3id203500typeUserfollowers_count4loginnotfbemail
+		User: notfb not in DB... inserting
+/api/v2/yaml/user/show/wabu/following
+UserInfo for sunaku: 	companynameSuraj N. Kurapatigravatar_id79f9616c279f40ef953f366dcfe38dc8created_at2008/05/09 23:50:23 -0700locationSilicon Valleybloghttp://snk.tuxfamily.org/log/public_gist_count2public_repo_count31following_count16id9863typeUserfollowers_count13loginsunakuemailsunaku@gmail.com
+		User: sunaku not in DB... inserting
+UserInfo for covin: 	companynameAlexander Münngravatar_id0073fe49954d0747aaee9897f1c48b1fcreated_at2009/10/22 03:40:12 -0700locationblogpublic_gist_count0public_repo_count6following_count0id143102typeUserfollowers_count1logincovinemailalex.muenn@gmx.net
+		User: covin not in DB... inserting
+		 FollowerID of notfb = 26
+/api/v2/yaml/user/show/jezdez/followers
+UserInfo for jezdez: 	companyenn.io/EldarionnameJannis Leidelgravatar_idcf3595fa166bfb4106211e1697f39f94created_at2008/02/28 08:00:34 -0800locationBerlin, Germanybloghttp://enn.iopublic_gist_count33public_repo_count89following_count160id1610typeUserfollowers_count300loginjezdezemailjezdez@enn.io
+		User: jezdez not in DB... inserting
+UserInfo for cw: 	companychristianwilcox.comnameChristian Wilcoxgravatar_idea5e86cd8b6d8a1949ea9fd0c81f06f7created_at2008/02/28 21:02:16 -0800locationMadison, WIbloghttp://christianwilcox.compublic_gist_count1public_repo_count6following_count59id1692typeUserfollowers_count4logincwemailcw@christianwilcox.com
+		User: cw not in DB... inserting
+UserInfo for toke: 	companynameThomas Kerpegravatar_id0d4347045cb02b67400c43662a32d553created_at2008/02/29 03:14:31 -0800locationKarlsruhe, Germanybloghttp://www.toke.de/blog/public_gist_count1public_repo_count2following_count27id1712typeUserfollowers_count5logintokeemailtoke@toke.de
+		User: toke not in DB... inserting
+UserInfo for brendanlim: 	companyIntrideanameBrendan G. Limgravatar_id0da7b1009cee473af0bdd36633e1fec8created_at2008/02/29 10:24:24 -0800locationAtlanta, GAbloghttp://brendanlim.compublic_gist_count1public_repo_count29following_count20id1788typeUserfollowers_count43loginbrendanlimemailbrendangl@gmail.com
+		User: brendanlim not in DB... inserting
+UserInfo for bryanveloso: 	companyRevyver, Inc.nameBryan Velosogravatar_idedad3aaefdd499ab37b910aded54e1b3created_at2008/02/27 14:57:03 -0800locationLos Angeles, CAbloghttp://avalonstar.compublic_gist_count24public_repo_count16following_count74id1258typeUserfollowers_count123loginbryanvelosoemailbryan@revyver.com
+		User: bryanveloso not in DB... inserting
+UserInfo for zerok: 	companynameHorst Gutmanngravatar_id0ff75a365e9f11c4fe02c3d670a52e3acreated_at2008/03/25 13:12:08 -0700locationGraz, Austriabloghttp://zerokspot.com/public_gist_count6public_repo_count19following_count18id3782typeUserfollowers_count23loginzerokemail
+		User: zerok not in DB... inserting
+UserInfo for kogakure: 	companynameStefan Imhoffgravatar_idb53f98d49e275e8387897de02c92288dcreated_at2008/04/06 23:46:23 -0700locationHamburg, Germanybloghttp://stefanimhoff.de/public_gist_count48public_repo_count7following_count21id5535typeUserfollowers_count16loginkogakureemailkogakure@gmail.com
+		User: kogakure not in DB... inserting
+UserInfo for jkocherhans: 	companyEveryBlocknameJoseph Kocherhansgravatar_id837aae5c38f9eac567c06c2e431fd0c2created_at2008/04/04 09:54:15 -0700locationChicago, ILblogpublic_gist_count0public_repo_count8following_count43id5110typeUserfollowers_count31loginjkocherhansemailgithub@jkocherhans.com
+		User: jkocherhans not in DB... inserting
+UserInfo for nmariz: 	companynameNuno Marizgravatar_idc73d377c383a68831c697b4e888fd281created_at2008/02/28 06:59:07 -0800locationPorto, Portugalbloghttp://mariz.orgpublic_gist_count0public_repo_count3following_count42id1602typeUserfollowers_count11loginnmarizemailnmariz@gmail.com
+		User: nmariz not in DB... inserting
+UserInfo for membogg: 	gravatar_id438807ab30f37a348189b660bff43319created_at2008/04/16 12:05:55 -0700public_gist_count1public_repo_count1following_count140id7609typeUserfollowers_count4loginmembogg
+		User: membogg not in DB... inserting
+UserInfo for gregnewman: 	companyCarbon8nameGreg Newmangravatar_id06c1d6af8539fa7e1e17bc6284d193f6created_at2008/03/03 08:47:48 -0800locationCharlotte, NCbloghttp://www.20seven.orgpublic_gist_count41public_repo_count23following_count74id2026typeUserfollowers_count96logingregnewmanemailgreg@20seven.org
+		User: gregnewman not in DB... inserting
+		 FollowerID of peritus = 2
+UserInfo for ericflo: 	companyMochi MedianameEric Florenzanogravatar_id04d6b8e8d3c68899ac88eb8623392150created_at2008/02/27 14:50:28 -0800locationSan Francisco, CAbloghttp://www.eflorenzano.com/public_gist_count12public_repo_count28following_count180id1228typeUserfollowers_count325loginericfloemailfloguy@gmail.com
+		User: ericflo not in DB... inserting
+UserInfo for flosch: 	companyFlorian Schlachter Internetservices & Software DesignnameFlorian Schlachtergravatar_id46f634703a7afd70bb6fe7ed6ed9a71fcreated_at2008/08/01 04:38:30 -0700locationBerlin, Germanybloghttp://www.fs-tools.depublic_gist_count0public_repo_count8following_count51id19232typeUserfollowers_count12loginfloschemailflori@n-schlachter.de
+		User: flosch not in DB... inserting
+UserInfo for stephrdev: 	companynameStephan Jaekelgravatar_ide61fdcd0ec654db78dd2ff9ecfc8d3eacreated_at2008/07/25 06:10:05 -0700locationBerlin, Germanybloghttp://www.sjaekel.com/public_gist_count0public_repo_count11following_count13id18389typeUserfollowers_count16loginstephrdevemail
+		User: stephrdev not in DB... inserting
+UserInfo for yashh: 	companynameYashhgravatar_id5f149769931c8bfbba3df06972175346created_at2008/08/26 22:37:17 -0700locationCAblogwww.yashh.compublic_gist_count16public_repo_count14following_count58id22153typeUserfollowers_count28loginyashhemail
+		User: yashh not in DB... inserting
+UserInfo for justinlilly: 	companyGooglenameJustin Lillygravatar_idd819f7576d53088db65789b9732141b3created_at2008/03/25 18:32:23 -0700locationNew York, NYbloghttp://justinlilly.compublic_gist_count15public_repo_count33following_count109id3853typeUserfollowers_count125loginjustinlillyemailjustin@justinlilly.com
+		User: justinlilly not in DB... inserting
+UserInfo for etng: 	companyWalkr.cnnameYi Bogravatar_id0d205389d63462f9b4522d7f2245c641created_at2008/02/20 18:13:07 -0800locationChina,SiChuan,Chengdubloghttp://www.etng.net/blogpublic_gist_count0public_repo_count2following_count2id547typeUserfollowers_count2loginetngemailetng2004@gmail.com
+		User: etng not in DB... inserting
+UserInfo for charlenopires: 	companyhttp://www.ifpi.edu.brnameCharleno Piresgravatar_id4f03547679f181e7aa0747f97990d9ffcreated_at2008/02/27 16:59:40 -0800locationTeresina - Piauíbloghttp://www.charlenopires.com.brpublic_gist_count1public_repo_count59following_count947id1365typeUserfollowers_count55logincharlenopiresemailcharleno@gmail.com
+		User: charlenopires not in DB... inserting
+UserInfo for jtauber: 	companyEldarionnameJames Taubergravatar_idf2d9cd49c78a2f6151175c7c651a2f16created_at2008/09/13 04:47:30 -0700locationBurlington, MAbloghttp://jtauber.com/blog/public_gist_count6public_repo_count19following_count46id24426typeUserfollowers_count198loginjtauberemailjtauber@jtauber.com
+		User: jtauber not in DB... inserting
+UserInfo for howiworkdaily: 	companynameKevingravatar_id4cec2073b7615800745141be311ec8b1created_at2008/04/28 17:51:51 -0700locationNYC/NJblogwww.howiworkdaily.compublic_gist_count8public_repo_count11following_count49id8789typeUserfollowers_count130loginhowiworkdailyemail
+		User: howiworkdaily not in DB... inserting
+UserInfo for arneb: 	companyArne BrodowskinameArne Brodowskigravatar_id9d8764d7daf298e3ce3749b96b5ee6d8created_at2008/09/29 07:21:21 -0700locationHamburg, Germanybloghttp://www.arnebrodowski.de/blog/public_gist_count1public_repo_count6following_count8id26743typeUserfollowers_count20loginarnebemail
+		User: arneb not in DB... inserting
+UserInfo for skabber: 	companyMassively OverratednameJay Gravesgravatar_idd56f7ce0eea85312aacec718e39eeb02created_at2008/08/25 22:51:43 -0700locationDenver, CObloghttp://socialistsoftware.com/public_gist_count9public_repo_count8following_count22id22005typeUserfollowers_count29loginskabberemailjay@skabber.com
+		User: skabber not in DB... inserting
+UserInfo for svetlyak40wt: 	companyYandexnameAlexander Artemenkogravatar_id5b3558b0fd5ca9c08d9061a6e51b555acreated_at2008/09/16 06:41:09 -0700locationMoscowbloghttp://aartemenko.compublic_gist_count23public_repo_count44following_count270id24827typeUserfollowers_count74loginsvetlyak40wtemail
+		User: svetlyak40wt not in DB... inserting
+UserInfo for paltman: 	companyStudioNow / AOL / Amino SoftwarenamePatrick Altmangravatar_id4b22ce0ad272e3a8a9cb6d248bf329b0created_at2008/02/27 14:29:24 -0800locationNashville, TNbloghttp://paltman.compublic_gist_count13public_repo_count26following_count52id1192typeUserfollowers_count48loginpaltmanemailpaltman@gmail.com
+		User: paltman not in DB... inserting
+UserInfo for gklein: 	companynameGil Kleingravatar_id0c3e9d5e48ee567f3cf079a668b75ab5created_at2008/06/13 14:04:12 -0700locationblogpublic_gist_count0public_repo_count1following_count27id13672typeUserfollowers_count1logingkleinemailgklein@gmail.com
+		User: gklein not in DB... inserting
+UserInfo for alcides: 	companynameAlcides Fonsecagravatar_id7be4c0c0cd5cd9eef3a3a414bdfad3e8created_at2008/04/13 09:16:44 -0700locationCoimbra, Portugalbloghttp://alcidesfonseca.compublic_gist_count35public_repo_count31following_count91id7089typeUserfollowers_count47loginalcidesemailme@alcidesfonseca.com
+		User: alcides not in DB... inserting
+UserInfo for hellp: 	companymenameFabian Neumanngravatar_id761b6be3778aefa25a27dbbe3e65b641created_at2008/11/05 03:41:39 -0800locationBerlin, Germanybloghttp://fabianneumann.de/public_gist_count0public_repo_count4following_count16id32779typeUserfollowers_count7loginhellpemail
+		User: hellp not in DB... inserting
+UserInfo for Gulopine: 	false
+Try 3: User Gulopine does not exist on github.com
+UserInfo for Gulopine: 	companynameMarty Alchingravatar_ida46bb28e7ea6b7be8d6dba671794a9eacreated_at2008/03/07 09:03:49 -0800locationLansing, MIbloghttp://martyalchin.com/public_gist_count1public_repo_count1following_count11id2522typeUserfollowers_count46loginGulopineemailmarty@martyalchin.com
+		User: Gulopine not in DB... inserting
+UserInfo for ptuzla: 	gravatar_idd1f30d3af22bbbe1735d2ee2a47f1982created_at2008/11/19 05:52:46 -0800public_gist_count0public_repo_count0following_count5id35429typeUserfollowers_count1loginptuzla
+		User: ptuzla not in DB... inserting
+UserInfo for olleolleolle: 	companyHypergenenameOlle Jonssongravatar_id577ffaaa74822dddde97e39d72c5d953created_at2008/02/13 00:24:32 -0800locationMalmö, Swedenbloghttp://ollehost.dk/blog/public_gist_count35public_repo_count34following_count66id211typeUserfollowers_count32loginolleolleolleemailolle.jonsson@gmail.com
+		User: olleolleolle not in DB... inserting
+UserInfo for arthurk: 	companynameArthur Kozielgravatar_id6ce82959c8135b61d40f6fc73f847546created_at2008/09/06 02:04:53 -0700locationDortmund, Germanyblogarthurkoziel.compublic_gist_count13public_repo_count12following_count40id23406typeUserfollowers_count19loginarthurkemail
+		User: arthurk not in DB... inserting
+UserInfo for daonb: 	companynamebenny daongravatar_id2e775e50cffbe657e7179569822f002bcreated_at2008/11/26 13:12:07 -0800locationTel-Avivblogpublic_gist_count1public_repo_count15following_count12id36852typeUserfollowers_count14logindaonbemailbennydaon
+		User: daonb not in DB... inserting
+UserInfo for yrouel: 	companynameGabriel Padoangravatar_iddf4cc361b0bf1c6bf949154ab44edf16created_at2008/11/27 14:18:27 -0800locationBoituvabloghttp://gopnet.blogspot.compublic_gist_count0public_repo_count0following_count9id37012typeUserfollowers_count3loginyrouelemailgabriel·padoan«at»gmail·com
+		User: yrouel not in DB... inserting
+UserInfo for ericholscher: 	companyLawrence Journal-WorldnameEric Holschergravatar_ida985c35d6be3c88a87d92b92b0d3756fcreated_at2008/09/20 09:57:49 -0700locationLawrence, Ksbloghttp://ericholscher.com/blog/public_gist_count7public_repo_count27following_count60id25510typeUserfollowers_count184loginericholscheremaileric@ericholscher.com
+		User: ericholscher not in DB... inserting
+UserInfo for danfairs: 	companyFez Consulting Ltd.nameDan Fairsgravatar_id42d49823cd3cfd8faa6cce00f10c7e86created_at2008/09/15 12:47:50 -0700locationBristol, UKbloghttp://www.fezconsulting.compublic_gist_count0public_repo_count19following_count13id24726typeUserfollowers_count13logindanfairsemaildan@fezconsulting.com
+		User: danfairs not in DB... inserting
+UserInfo for andriijas: 	companynameAndreas Cederströmgravatar_idd132cd1b472750c37ffa4ba5b6bd462acreated_at2008/11/07 01:59:54 -0800locationSwedenbloghttp://god.morgon.nupublic_gist_count3public_repo_count9following_count49id33141typeUserfollowers_count10loginandriijasemail
+		User: andriijas not in DB... inserting
+UserInfo for brosner: 	companyEldarionnameBrian Rosnergravatar_idb7472bc7aa45c70641c299e9408b78abcreated_at2008/02/02 11:03:54 -0800locationLittleton, CObloghttp://oebfare.compublic_gist_count12public_repo_count98following_count116id124typeUserfollowers_count295loginbrosneremailbrosner@gmail.com
+		User: brosner not in DB... inserting
+UserInfo for robhudson: 	companynameRob Hudsongravatar_id47ae07204a8b5c27fcfa9d6d253bba4ecreated_at2008/02/27 09:33:23 -0800locationEugene, Oregonbloghttp://rob.cogit8.org/public_gist_count7public_repo_count29following_count61id1106typeUserfollowers_count142loginrobhudsonemailrob@cogit8.org
+		User: robhudson not in DB... inserting
+UserInfo for nowells: 	companyPBSnameNowell Stritegravatar_ide726a2157eb79af6fbfffa2d1a729796created_at2008/09/09 09:56:55 -0700locationHuntington, VTbloghttp://nowell.strite.orgpublic_gist_count6public_repo_count12following_count69id23833typeUserfollowers_count37loginnowellsemailnowellpublic@gmail.com
+		User: nowells not in DB... inserting
+UserInfo for clintecker: 	companyArs TechnicanameClint Eckergravatar_id864cedf6bc2f4c2d2197b7f8c45b0be3created_at2008/09/30 13:18:25 -0700locationChicago, ILbloghttp://blog.clintecker.compublic_gist_count19public_repo_count17following_count88id26985typeUserfollowers_count63loginclinteckeremailclint@arstechnica.com
+		User: clintecker not in DB... inserting
+UserInfo for Townk: 	companynameThiago Alvesgravatar_id247832e734a8acc36611724995ab2d5bcreated_at2008/02/27 14:57:43 -0800locationCuritiba, PR, Brazilbloghttp://thiagoalves.orgpublic_gist_count1public_repo_count5following_count11id1261typeUserfollowers_count4loginTownkemailthiago.salves@gmail.com
+		User: Townk not in DB... inserting
+UserInfo for kaikuehne: 	companynameKai Kuehnegravatar_id99e02f8281ccc4719f18c55c36d434dccreated_at2008/07/12 12:10:19 -0700locationBerlin, Germanybloghttp://kaikuehne.net/public_gist_count0public_repo_count0following_count30id16883typeUserfollowers_count4loginkaikuehneemailkaikuehne@gmail.com
+		User: kaikuehne not in DB... inserting
+UserInfo for myles: 	companyMonkey in your SoulnameMyles Braithwaitegravatar_id4ba001fdab9195960ecb99e7d888e5d8created_at2008/02/27 14:49:45 -0800locationTorontobloghttp://mylesbraithwaite.com/blog/public_gist_count14public_repo_count52following_count63id1223typeUserfollowers_count28loginmylesemailme@mylesbraithwaite.com
+		User: myles not in DB... inserting
+UserInfo for Uninen: 	companySyneus SolutionsnameVille Säävuorigravatar_id8ee74a37a972d86f35ff992b8be254dfcreated_at2008/12/29 00:12:44 -0800locationTurku, Finlandbloghttp://www.unessa.net/en/public_gist_count1public_repo_count0following_count6id43100typeUserfollowers_count5loginUninenemailville@unessa.net
+		User: Uninen not in DB... inserting
+UserInfo for traviscline: 	companynameTravis Clinegravatar_id68f0049842700597b89972e1fbf6f542created_at2008/03/27 08:49:13 -0700locationlawrence, ksblogtraviscline.com/blogpublic_gist_count17public_repo_count28following_count47id3977typeUserfollowers_count36logintravisclineemailtravis.cline@gmail.com
+		User: traviscline not in DB... inserting
+UserInfo for johndagostino: 	companynameJohn D'Agostinogravatar_idf7538c3db77d290282b112211587e390created_at2008/04/03 15:29:46 -0700locationSydney, Australiabloghttp://www.mercurycomplex.compublic_gist_count0public_repo_count7following_count29id4756typeUserfollowers_count1loginjohndagostinoemailjohn.dagostino@gmail.com
+		User: johndagostino not in DB... inserting
+UserInfo for johnboxall: 	companyMobifynameJohn Boxallgravatar_idb0d7b5d81cbc846b99976fbf3852d932created_at2008/10/14 14:00:45 -0700locationVancouverbloghttp://www.mobify.mepublic_gist_count25public_repo_count28following_count25id28967typeUserfollowers_count51loginjohnboxallemailjohn@mobify.me
+		User: johnboxall not in DB... inserting
+UserInfo for toastdriven: 	companyMediaphormedia / Pragmatic Badger / Toast DrivennameDaniel Lindsleygravatar_id130de5dce3445b62f84fb4cfc86bfcd4created_at2008/03/06 12:05:39 -0800locationLawrence, KSbloghttp://www.toastdriven.com/fresh/public_gist_count26public_repo_count23following_count44id2449typeUserfollowers_count107logintoastdrivenemaildaniel@toastdriven.com
+		User: toastdriven not in DB... inserting
+UserInfo for digi604: 	companydivio GmbHnamePatrick Laubergravatar_id145985de196c55c2d52c9db40c334c89created_at2008/09/20 05:59:31 -0700locationZürich, Switzerlandbloghttp://www.divio.chpublic_gist_count1public_repo_count8following_count51id25490typeUserfollowers_count69logindigi604email
+		User: digi604 not in DB... inserting
+UserInfo for telenieko: 	companynameMarc Fargasgravatar_id6eaa2b200e55c95b0232daaa1265994dcreated_at2008/05/16 03:32:01 -0700locationBarcelona, Spainbloghttp://www.marcfargas.compublic_gist_count0public_repo_count4following_count7id10505typeUserfollowers_count5loginteleniekoemailtelenieko@telenieko.com
+		User: telenieko not in DB... inserting
+UserInfo for rizumu: 	companyinsatsunameThomas Schreibergravatar_id82a6becedbd0e1b499813096b1a80473created_at2008/10/01 09:52:50 -0700locationmadrid, esbloghttp://insatsu.us/blogs/thomas-schreiber/public_gist_count2public_repo_count16following_count24id27119typeUserfollowers_count5loginrizumuemailtom@insatsu.us
+		User: rizumu not in DB... inserting
+UserInfo for greut: 	companydoSimplenameYoan Blancgravatar_id9d55b716ad53ca9967afbbccf2828e9ecreated_at2008/02/27 17:54:10 -0800locationSwitzerlandbloghttp://yoan.dosimple.ch/blog/public_gist_count36public_repo_count25following_count160id1388typeUserfollowers_count46logingreutemailyoan@dosimple.ch
+		User: greut not in DB... inserting
+UserInfo for d0ugal: 	companySelf employednameDougal Matthewsgravatar_id305cabbbad7039ea3a7e8b9be6f59619created_at2009/01/21 04:00:30 -0800locationScotlandbloghttp://dougalmatthews.compublic_gist_count4public_repo_count18following_count32id48211typeUserfollowers_count16logind0ugalemail
+		User: d0ugal not in DB... inserting
+UserInfo for leah: 	companySix Apart (formerly Pownce)nameLeah Culvergravatar_id5573f0b3cbe983ae0f2d00a2e610d6becreated_at2009/01/11 18:51:24 -0800locationSan Francisco, CAbloghttp://leahculver.com/public_gist_count7public_repo_count11following_count89id45870typeUserfollowers_count659loginleahemailleah.culver@gmail
+		User: leah not in DB... inserting
+UserInfo for odonnell: 	companynameChris O'Donnellgravatar_id9b5ab62687b99c3830e40464f950015ccreated_at2009/02/06 11:29:51 -0800locationVictoria, Canadablogchrisodonnell.netpublic_gist_count0public_repo_count4following_count27id52428typeUserfollowers_count6loginodonnellemailmail@chrisodonnell.net
+		User: odonnell not in DB... inserting
+UserInfo for dhilton: 	companynameDan Hiltongravatar_idfb1d1accb1e549c77129ad792c981ecacreated_at2009/01/17 02:57:44 -0800locationBath, UKbloghttp://www.danhilton.co.uk/public_gist_count0public_repo_count2following_count51id47292typeUserfollowers_count5logindhiltonemail
+		User: dhilton not in DB... inserting
+UserInfo for RockHoward: 	companyRockHoward.comnameRock Howardgravatar_idbde818fc78679e65610871473053b868created_at2008/11/06 13:46:08 -0800locationAustinbloghttp://rockhoward.compublic_gist_count0public_repo_count9following_count21id33059typeUserfollowers_count9loginRockHowardemailrockmhoward@gmail.com
+		User: RockHoward not in DB... inserting
+UserInfo for richleland: 	companyDiscovery CommunicationsnameRichard Lelandgravatar_id0ba4379523e3cdfbb0e4d8075f9c65cecreated_at2008/11/16 17:39:58 -0800locationSilver Spring, MDbloghttp://mathematism.com/public_gist_count13public_repo_count15following_count14id34866typeUserfollowers_count24loginrichlelandemailrich@richleland.com
+		User: richleland not in DB... inserting
+UserInfo for nicolaslara: 	companynameNicolas Laragravatar_idd09b2f23e4c8eb98bfb6e13b065449a8created_at2008/12/02 12:08:55 -0800locationblogpublic_gist_count0public_repo_count7following_count6id37868typeUserfollowers_count8loginnicolaslaraemailnicolaslara@gmail.com
+		User: nicolaslara not in DB... inserting
+UserInfo for philippbosch: 	companyall over the placenamePhilipp Boschgravatar_id0e52ba9c61a41f52b955de10b2b864d0created_at2009/02/24 07:22:18 -0800locationBerlin, Germanyblogwww.philippbosch.depublic_gist_count13public_repo_count28following_count16id57509typeUserfollowers_count4loginphilippboschemail
+		User: philippbosch not in DB... inserting
+UserInfo for matagus: 	companyfreelance nameagustín méndezgravatar_iddb3b3decf3a49e94f49172034f5df598created_at2009/02/27 02:45:55 -0800locationBuenos Aires, Argentinabloghttp://www.matagus.com.ar/public_gist_count7public_repo_count3following_count220id58519typeUserfollowers_count25loginmatagusemailme@matagus.com.ar
+		User: matagus not in DB... inserting
+UserInfo for playpauseandstop: 	companynameIgor Davydenkogravatar_id73bfbe224d76102c823455ed75b979ffcreated_at2008/08/20 15:58:09 -0700locationKiev, Ukrainebloghttp://djangonaut.blogspot.com/public_gist_count9public_repo_count7following_count31id21325typeUserfollowers_count22loginplaypauseandstopemailplaypauseandstop@gmail.com
+		User: playpauseandstop not in DB... inserting
+UserInfo for liz: 	companynamelizgravatar_id06849513d7bf564e6aee13126faecdb0created_at2008/03/18 11:21:55 -0700locationnew yorkbloghttp://latherrinserepeat.org/public_gist_count0public_repo_count5following_count37id3377typeUserfollowers_count28loginlizemailliz@latherrinserepeat.org
+		User: liz not in DB... inserting
+UserInfo for muratmeran: 	gravatar_id351c6b3c0718e1a46610f7ff29bc5dc4created_at2009/02/08 20:52:07 -0800public_gist_count0public_repo_count0following_count1id52915typeUserfollowers_count1loginmuratmeran
+		User: muratmeran not in DB... inserting
+UserInfo for camflan: 	companycamronflandersnameCamron Flandersgravatar_idccc7c672e3b9956e5c4b2ec8dd5d4f21created_at2008/10/02 09:42:45 -0700locationLawrence, KSbloghttp://im.camronflanders.compublic_gist_count15public_repo_count14following_count39id27292typeUserfollowers_count18logincamflanemailme@camronflanders.com
+		User: camflan not in DB... inserting
+UserInfo for daks: 	companynameÉric Veiras Galissongravatar_id8658467225b740092e5fb0e8d6c13a8bcreated_at2009/02/09 05:05:49 -0800locationblogpublic_gist_count0public_repo_count0following_count2id52996typeUserfollowers_count1logindaksemail
+		User: daks not in DB... inserting
+UserInfo for kvbik: 	companycentrum holdingsnameJakub Vysokýgravatar_iddca9ed0dd964e6e81a39ffa6a5f58cb3created_at2009/01/08 07:04:30 -0800locationroudnice nad labemblogpublic_gist_count0public_repo_count7following_count65id45091typeUserfollowers_count16loginkvbikemailjakub@borka.cz
+		User: kvbik not in DB... inserting
+UserInfo for elliottcable: 	companyyrealitynamegravatar_id42502092f0b1a77e2c52d3c68c603b96created_at2008/02/12 19:27:01 -0800locationAnchorage, Alaskabloghttp://elliottcable.name/public_gist_count463public_repo_count86following_count440id200typeUserfollowers_count113loginelliottcableemailgithub@elliottcable.name
+		User: elliottcable not in DB... inserting
+UserInfo for erikankrom: 	companynameErik Ankromgravatar_id98ee79c6e32e2429e2abf8fff290fbeacreated_at2009/04/01 05:29:31 -0700locationLeawood, KSbloghttp://www.erikankrom.compublic_gist_count0public_repo_count1following_count24id69351typeUserfollowers_count3loginerikankromemailerikankrom@gmail.com
+		User: erikankrom not in DB... inserting
+UserInfo for pydanny: 	companypydanny.comnameDaniel Greenfeldgravatar_id67e05420d4dd3492097aeb77f44f7867created_at2009/03/12 11:50:46 -0700locationArlington, VAbloghttp://pydanny.blogspot.compublic_gist_count1public_repo_count23following_count47id62857typeUserfollowers_count73loginpydannyemailpydanny@gmail.com
+		User: pydanny not in DB... inserting
+UserInfo for vak: 	companynamegravatar_id874f31f4051be3fbdd2fae2d3bd6c79ecreated_at2009/04/02 10:28:08 -0700locationMunich, Germanybloghttp://dooblet.compublic_gist_count0public_repo_count0following_count2id69862typeUserfollowers_count1loginvakemail
+		User: vak not in DB... inserting
+UserInfo for brianmacdonald: 	companynameBrian Macdonaldgravatar_id1f680f706dec2722ac8e1aba0e6c6857created_at2008/12/16 10:16:22 -0800locationFloridablogpublic_gist_count10public_repo_count5following_count11id40810typeUserfollowers_count3loginbrianmacdonaldemail
+		User: brianmacdonald not in DB... inserting
+UserInfo for thepian: 	companyThepian LtdnameHenrik Vendelbogravatar_ida039094a6b0c6f3dc88ada8ee26a4200created_at2009/04/10 18:55:28 -0700locationUKbloghttp://www.thepian.org/perspective/public_gist_count0public_repo_count10following_count14id72638typeUserfollowers_count2loginthepianemailhvendelbo.dev@googlemail.com
+		User: thepian not in DB... inserting
+UserInfo for directeur: 	companynamedirecteurgravatar_id66362d7065626e2eaeab1be5f1cdec8acreated_at2008/04/04 13:35:40 -0700locationInternetzbloghttp://xhtml-css.compublic_gist_count0public_repo_count12following_count6id5166typeUserfollowers_count24logindirecteuremail
+		User: directeur not in DB... inserting
+UserInfo for tualatrix: 	companynameTualatriXgravatar_id3aa394e5aef22274b9d36a74adb787e9created_at2008/11/21 01:21:32 -0800locationHangzhou, Chinabloghttp://imtx.cnpublic_gist_count0public_repo_count15following_count23id35811typeUserfollowers_count44logintualatrixemailtualatrix@gmail.com
+		User: tualatrix not in DB... inserting
+UserInfo for webiest: 	companynamegravatar_id4151a046d8e438a1631a9dd91f33c803created_at2008/05/15 19:49:11 -0700locationblogwww.webiest.compublic_gist_count7public_repo_count36following_count1916id10476typeUserfollowers_count107loginwebiestemail
+		User: webiest not in DB... inserting
+UserInfo for teepark: 	companySlide, Inc.nameTravis Parkergravatar_id89c044849933258ae795930f0937c087created_at2008/11/28 19:47:00 -0800locationSan Francisco, CAblogpublic_gist_count12public_repo_count13following_count55id37182typeUserfollowers_count13loginteeparkemailtravis.parker@gmail.com
+		User: teepark not in DB... inserting
+UserInfo for Almad: 	companynameAlmadgravatar_idf38b7d2954a2494564ba1a55a66fff83created_at2009/01/06 06:22:37 -0800locationbloghttp://almad.nejsem.in/public_gist_count1public_repo_count25following_count33id44565typeUserfollowers_count13loginAlmademailbugs@almad.net
+		User: Almad not in DB... inserting
+UserInfo for jonatkinson: 	companynameJon Atkinsongravatar_id4d8a7424d538d851f93adcc100a70542created_at2009/02/11 12:15:38 -0800locationUKbloghttp://jonatkinson.co.ukpublic_gist_count0public_repo_count5following_count22id53748typeUserfollowers_count8loginjonatkinsonemailjon@jonatkinson.co.uk
+		User: jonatkinson not in DB... inserting
+UserInfo for zodman: 	companyzodman incnameAndres Vargasgravatar_ida1c5fdec1dd6e17d609f21033fdf122ecreated_at2009/01/04 15:02:50 -0800locationMerida Yucatan Mexicoblogzodman.com.mxpublic_gist_count13public_repo_count17following_count56id44167typeUserfollowers_count25loginzodmanemailzodman@gmail.com
+		User: zodman not in DB... inserting
+UserInfo for rubens: 	companyparaBebes.com - Grupo IntercomnameRuben Sanchezgravatar_idfc67df15a5c50f721f7fd3cb2cd19c7bcreated_at2009/04/13 08:18:47 -0700locationBarcelonabloghttp://rsanchez.infopublic_gist_count1public_repo_count0following_count13id73317typeUserfollowers_count1loginrubensemailrubensanchez@ymail.com
+		User: rubens not in DB... inserting
+UserInfo for montylounge: 	companyMonty Lounge Industries, LLCnamekevingravatar_id038e0e339c789eba490983fa9bbf170ccreated_at2009/04/23 07:34:27 -0700locationNJ/NYCblogblog.montylounge.compublic_gist_count28public_repo_count15following_count99id77024typeUserfollowers_count127loginmontyloungeemailkevin@montylounge.com
+		User: montylounge not in DB... inserting
+UserInfo for pobivan: 	companynameIvan Sviatenkogravatar_idc334d87317f8bc0c551925674927020dcreated_at2008/03/12 23:07:12 -0700locationKyiv, Ukrainebloghttp://pobivan.tumblr.com/public_gist_count0public_repo_count0following_count10id2972typeUserfollowers_count0loginpobivanemailivan.sviatenko@gmail.com
+		User: pobivan not in DB... inserting
+UserInfo for IanLewis: 	companyBeProudnameIan Lewisgravatar_id01dc8e954957a10b428aa60b28c89d52created_at2009/01/26 00:48:49 -0800locationTokyo, Japanbloghttp://www.ianlewis.org/public_gist_count3public_repo_count13following_count36id49289typeUserfollowers_count9loginIanLewisemailIanMLewis@gmail.com
+		User: IanLewis not in DB... inserting
+UserInfo for ulope: 	companynameUlrich Petrigravatar_id35916d1811a1f4ff1b39658e1c39d96ecreated_at2009/02/16 15:23:32 -0800locationGermanyblogpublic_gist_count5public_repo_count9following_count4id55078typeUserfollowers_count3loginulopeemailgithub@ulo.pe
+		User: ulope not in DB... inserting
+UserInfo for mitsuhiko: 	companynameArmin Ronachergravatar_id181de1fb11dffe39774f3e2e23cda3b6created_at2008/04/15 03:03:57 -0700locationAustriabloghttp://lucumr.pocoo.org/public_gist_count0public_repo_count19following_count13id7396typeUserfollowers_count145loginmitsuhikoemailarmin.ronacher@active-4.com
+		User: mitsuhiko not in DB... inserting
+UserInfo for blturner: 	companynameBenjamin Turnergravatar_id2dad168851a4918007190ec3f3ebca69created_at2009/03/02 10:45:32 -0800locationAnn Arbor, MIblogben-turner.compublic_gist_count3public_repo_count5following_count39id59454typeUserfollowers_count16loginblturneremailbenturn@gmail.com
+		User: blturner not in DB... inserting
+UserInfo for thoas: 	false
+Try 3: User thoas does not exist on github.com
+UserInfo for thoas: 	companynameFlorent Messagravatar_idcf5739ccfa630b169bfef0ad45c79a9ccreated_at2008/08/07 12:45:08 -0700locationParis, Francebloghttp://apluggedinlife.compublic_gist_count4public_repo_count8following_count224id19938typeUserfollowers_count18loginthoasemailflorent.messa@gmail.com
+		User: thoas not in DB... inserting
+UserInfo for trent: 	companynameTrent Jurewiczgravatar_idfc3c587702e7474f6dc1d4cf43fe730ecreated_at2009/01/06 21:25:08 -0800locationChicago, ILblogpublic_gist_count0public_repo_count4following_count32id44753typeUserfollowers_count10logintrentemailtjurewicz@gmail.com
+		User: trent not in DB... inserting
+UserInfo for alibrahim: 	companyKBSoftnameAhmad Al-Ibrahimgravatar_id9f7973c44c23840240dcb7023fc78e01created_at2009/03/16 20:53:40 -0700locationKuwaitblogpublic_gist_count0public_repo_count3following_count13id64147typeUserfollowers_count4loginalibrahimemailspeedy@speedy.org
+		User: alibrahim not in DB... inserting
+UserInfo for kylefox: 	companynameKyle Foxgravatar_id8ee8797254d515adcf0b4e3aba71ae7fcreated_at2008/12/02 10:13:55 -0800locationEdmonton, Alberta (Canada)bloghttp://kylefox.capublic_gist_count41public_repo_count13following_count37id37838typeUserfollowers_count28loginkylefoxemailkyle.fox@gmail.com
+		User: kylefox not in DB... inserting
+UserInfo for gabrielk: 	companyhttp://cmedtechnology.comnameKovacs Gabrielgravatar_id14f63e24916915b744eb0fd370975e40created_at2008/09/10 15:45:26 -0700locationTimisoara, Romaniabloghttp://www.gabrielk.compublic_gist_count0public_repo_count0following_count34id24060typeUserfollowers_count4logingabrielkemailkovacs.gabi@gmail.com
+		User: gabrielk not in DB... inserting
+UserInfo for sebleier: 	companyMediaphormedianameSean Bleiergravatar_id13cf13473dcc54baaa197b72f79199eacreated_at2009/01/30 09:33:18 -0800locationSan Luis Obispo, Cablogpublic_gist_count2public_repo_count14following_count98id50522typeUserfollowers_count29loginsebleieremailsebleier@gmail.com
+		User: sebleier not in DB... inserting
+UserInfo for timsloan: 	companyLift InteractivenameTimgravatar_id4b174bd1c15cb050a0658f925e116ccacreated_at2008/12/29 10:18:03 -0800locationEdmonton, Alberta, Canadablogliftinteractive.com/timpublic_gist_count0public_repo_count3following_count22id43178typeUserfollowers_count3logintimsloanemailtim@liftinteractive.com
+		User: timsloan not in DB... inserting
+UserInfo for HonzaKral: 	companynameHonza Králgravatar_ided54b8b23a3761e9c714d1bd2caf14a7created_at2008/11/01 06:02:27 -0700locationCzech Republicblogpublic_gist_count3public_repo_count2following_count3id32132typeUserfollowers_count41loginHonzaKralemailHonza.Kral@gmail.com
+		User: HonzaKral not in DB... inserting
+UserInfo for alex: 	companyEldarionnameAlex Gaynorgravatar_idedcdfd5affb524e0f88ec1a00ed3fe5dcreated_at2008/02/24 12:44:41 -0800locationTroy, NY and Chicago, ILbloghttp://alexgaynor.netpublic_gist_count2public_repo_count32following_count28id772typeUserfollowers_count246loginalexemailalex.gaynor@gmail.com
+		User: alex not in DB... inserting
+UserInfo for shanx: 	gravatar_id69bde967087d1badb51d2b41e4734bf6created_at2008/10/06 12:01:24 -0700public_gist_count0public_repo_count4following_count6id27800typeUserfollowers_count1loginshanx
+		User: shanx not in DB... inserting
+UserInfo for mmalone: 	companySimpleGeonameMichael Malonegravatar_idb948da7422021ef4773fd265739b971ecreated_at2008/04/11 12:28:30 -0700locationSan Francisco, CAbloghttp://immike.net/public_gist_count25public_repo_count11following_count73id6750typeUserfollowers_count215loginmmaloneemailmjmalone@gmail.com
+		User: mmalone not in DB... inserting
+UserInfo for djm: 	gravatar_ida7be9e756c24b601e6010886fe74430dcreated_at2009/05/26 07:13:02 -0700public_gist_count0public_repo_count0following_count3id88744typeUserfollowers_count1logindjm
+		User: djm not in DB... inserting
+UserInfo for hughdbrown: 	companynameHugh Browngravatar_idbbcac97b68f9e9cabd25a3f0f0bdbe49created_at2009/05/30 21:39:44 -0700locationNYCbloghttp://iwebthereforeiam.com/public_gist_count0public_repo_count21following_count40id90322typeUserfollowers_count9loginhughdbrownemailhughdbrown@yahoo.com
+		User: hughdbrown not in DB... inserting
+UserInfo for djangrrl: 	companynamebarbara shaurettegravatar_id69e25b176350956ec609efc5b2cf6a7dcreated_at2008/11/16 09:07:08 -0800locationsan francisco, cablogdjangrrl.compublic_gist_count0public_repo_count5following_count25id34788typeUserfollowers_count41logindjangrrlemailbarbara.shaurette@gmail.com
+		User: djangrrl not in DB... inserting
+UserInfo for stryderjzw: 	companynameJustin Wonggravatar_idcdc137ad848a8de306aea30f391189a4created_at2009/05/01 16:34:02 -0700locationVancouverblogspotteddoing.compublic_gist_count1public_repo_count2following_count9id80090typeUserfollowers_count0loginstryderjzwemailstryderjzw@gmail.com
+		User: stryderjzw not in DB... inserting
+UserInfo for shawnr: 	companyPBSnameShawn Ridergravatar_id01607fe417d6c7affa97944f87638d60created_at2008/12/04 19:21:12 -0800locationAlexandria, VAbloghttp://shawnrider.compublic_gist_count0public_repo_count4following_count16id38453typeUserfollowers_count12loginshawnremailshawn@shawnrider.com
+		User: shawnr not in DB... inserting
+UserInfo for batiste: 	gravatar_id8f18d2579d5c8f2fb2a79c09a9234e6ecreated_at2009/03/25 02:57:43 -0700public_gist_count0public_repo_count13following_count18id66927typeUserfollowers_count20loginbatiste
+		User: batiste not in DB... inserting
+UserInfo for fabian: 	companyLiip AGnameFabian Voglergravatar_idabdc1ddb9b18c829404ac7fd9916626fcreated_at2008/06/11 07:10:19 -0700locationBaden, Switzerlandbloghttp://equivalence.ch/public_gist_count2public_repo_count4following_count25id13346typeUserfollowers_count12loginfabianemailfabian@equivalence.ch
+		User: fabian not in DB... inserting
+UserInfo for jtrocky: 	gravatar_id3da96512b3af6fe17bfef97036f70373created_at2009/02/09 07:02:08 -0800public_gist_count0public_repo_count1following_count3id53028typeUserfollowers_count0loginjtrocky
+		User: jtrocky not in DB... inserting
+UserInfo for eculver: 	companyMahalo.comnameEvan Culvergravatar_id9fabc1617dd9f89ae219aec07b1069e9created_at2008/12/16 11:37:57 -0800locationSanta Monica, CAbloghttp://evanculver.compublic_gist_count21public_repo_count4following_count47id40828typeUserfollowers_count14logineculveremailevan@evanculver.com
+		User: eculver not in DB... inserting
+UserInfo for skyl: 	companyskyl.orgnameSkylar Savelandgravatar_idae4384c9130c9b1707a15584f6b75333created_at2009/03/08 18:41:19 -0700locationAtlantabloghttp://skyl.org/public_gist_count6public_repo_count55following_count63id61438typeUserfollowers_count20loginskylemailskylar.saveland@gmail.com
+		User: skyl not in DB... inserting
+UserInfo for cumulusware: 	companyCumulusware, LLCnameMatthew Rankingravatar_idd8298e5ede8d179cbeac48c58dd2b20fcreated_at2009/06/20 14:17:39 -0700locationIndependence, MOblogwww.cumulusware.compublic_gist_count4public_repo_count6following_count27id97389typeUserfollowers_count0logincumuluswareemailmatthew@cumulusware.com
+		User: cumulusware not in DB... inserting
+UserInfo for whit: 	companynameVítek Pliskagravatar_id81331208c191cecd5bece6aae6c6918dcreated_at2009/02/26 09:07:31 -0800locationPrague, Czech Republicblogpublic_gist_count0public_repo_count2following_count9id58279typeUserfollowers_count0loginwhitemailwhit@jizak.cz
+		User: whit not in DB... inserting
+UserInfo for AndyA: 	companyHextennameAndy Armstronggravatar_id629ba5fd1e4b41a8a19829efa0be9786created_at2008/09/24 03:13:01 -0700locationCumbria, UKbloghttp://hexten.net/public_gist_count0public_repo_count66following_count85id26065typeUserfollowers_count49loginAndyAemailandy@hexten.net
+		User: AndyA not in DB... inserting
+UserInfo for tomster: 	companynameTom Lazargravatar_idd01e5121a6f6c5edd1df358972ac813bcreated_at2009/03/01 15:59:04 -0800locationBerlin, Germanybloghttp://tomster.org/public_gist_count0public_repo_count7following_count9id59207typeUserfollowers_count12logintomsteremailtom@tomster.org
+		User: tomster not in DB... inserting
+UserInfo for radioarm: 	companyPolitechnika WrocławskanameMarcingravatar_id549ad62f4e40255b8db295abdee0f827created_at2008/12/22 12:32:29 -0800locationWrocławblogwww.reconfigureyourmind.wordpress.compublic_gist_count0public_repo_count5following_count6id42163typeUserfollowers_count1loginradioarmemailmarcin.pietranik@gmail.com
+		User: radioarm not in DB... inserting
+UserInfo for dnordberg: 	companynameDaniel Nordberggravatar_id47043bd85db4d93df2452621922bbabccreated_at2008/06/27 12:29:53 -0700locationGenevablogpublic_gist_count6public_repo_count11following_count39id15315typeUserfollowers_count6logindnordbergemaildnordberg@gmail.com
+		User: dnordberg not in DB... inserting
+UserInfo for marcelor: 	companyMarceloR inc.nameMarcelo Ramosgravatar_id6f14e6788322159186b92ac8301b6667created_at2009/06/18 15:07:35 -0700locationMontevideo, Uruguaybloghttp://www.marcelor.compublic_gist_count0public_repo_count6following_count6id96830typeUserfollowers_count5loginmarceloremailmarcelor@gmail.com
+		User: marcelor not in DB... inserting
+UserInfo for tiagopita: 	companyKiukinameTiagogravatar_id705d37d4cb02a69c8b06c169eca5df91created_at2009/07/20 05:21:51 -0700locationLondonbloghttp://tiagopita.compublic_gist_count0public_repo_count0following_count2id106837typeUserfollowers_count0logintiagopitaemailmail@tiagopita.com
+		User: tiagopita not in DB... inserting
+UserInfo for rafaelcaricio: 	companyOrygensnameRafael Caríciogravatar_id7c267f52cf25ca9f0861ea80d0b3d08acreated_at2009/07/22 05:12:11 -0700locationRecife, PEbloghttp://www.orygens.compublic_gist_count0public_repo_count13following_count24id107613typeUserfollowers_count8loginrafaelcaricioemailrafael.jacinto@gmail.com
+		User: rafaelcaricio not in DB... inserting
+UserInfo for joshbutner: 	companyScarynameJosh Butnergravatar_id676666e738795c2eeb41f130a90c39a8created_at2009/02/11 17:46:23 -0800locationAustin, TXbloghttp://joshbutner.compublic_gist_count1public_repo_count0following_count25id53810typeUserfollowers_count0loginjoshbutneremailhello@joshbutner.com
+		User: joshbutner not in DB... inserting
+UserInfo for jcarbaugh: 	companySunlight Foundation / 200 OKnameJeremy Carbaughgravatar_id49960321696f1b79128e28d1cd501c5fcreated_at2008/12/08 12:49:43 -0800locationWashington, DCbloghttp://carbauja.compublic_gist_count7public_repo_count19following_count49id39159typeUserfollowers_count37loginjcarbaughemail
+		User: jcarbaugh not in DB... inserting
+UserInfo for whitmo: 	companyEmmanameWhit Morrissgravatar_id0cd8f52b6a8c4ca49d56a4b0ce7cce7ccreated_at2008/09/23 14:00:08 -0700locationNashville, TNbloghttp://www.whitmorriss.orgpublic_gist_count24public_repo_count27following_count22id25968typeUserfollowers_count15loginwhitmoemailwhit@nocoast.us
+		User: whitmo not in DB... inserting
+UserInfo for j2a: 	companyJellyCrystalnameYury Yurevichgravatar_ida697195c0266d986c485f5ce273c6b10created_at2009/02/01 21:17:12 -0800locationRussia, Omskbloghttp://pyobject.ru/blogpublic_gist_count8public_repo_count8following_count28id51026typeUserfollowers_count14loginj2aemailyyurevich@jellycrystal.com
+		User: j2a not in DB... inserting
+UserInfo for jetport: 	gravatar_idbdb649ba5d2c986e21c5cff49bb7e659created_at2009/07/30 06:13:33 -0700public_gist_count0public_repo_count3following_count2id110269typeUserfollowers_count0loginjetport
+		User: jetport not in DB... inserting
+UserInfo for dtamborelli: 	companynameDaniel T. Alvarengagravatar_id6a1e698672889985bf934f1dd18ea116created_at2009/05/08 15:09:37 -0700locationSão Paulo, Brazilblogpublic_gist_count2public_repo_count39following_count27id82574typeUserfollowers_count4logindtamborelliemaildtamborelli@gmail.com
+		User: dtamborelli not in DB... inserting
+UserInfo for bhaugen: 	companynameBob Haugengravatar_id0ce7e24a999e470a0c98782ef21f7c2ecreated_at2009/08/20 03:02:18 -0700locationbloghttp://www.group-accounting.compublic_gist_count0public_repo_count5following_count21id117439typeUserfollowers_count3loginbhaugenemail
+		User: bhaugen not in DB... inserting
+UserInfo for daniel-wang: 	companytairan.netnameTairan Wanggravatar_id7bcc568c335eff60b27d142e5c80b3ffcreated_at2009/01/15 01:16:51 -0800locationChinabloghttp://www.tairan.netpublic_gist_count0public_repo_count5following_count16id46754typeUserfollowers_count0logindaniel-wangemailtairan.wang@gmail.com
+		User: daniel-wang not in DB... inserting
+UserInfo for httpdss: 	companynameKenneth Belitzkygravatar_idd021a924a316b385766abeb40f9185f3created_at2008/12/09 14:57:39 -0800locationMontevideo, Uruguaybloghttp://kenny.belitzky.compublic_gist_count4public_repo_count19following_count50id39445typeUserfollowers_count7loginhttpdssemailkenny@belitzky.com
+		User: httpdss not in DB... inserting
+UserInfo for zstumgoren: 	companynameSerdar Tumgorengravatar_id15f1c75e14f5ee0176769271d0c9f2aecreated_at2008/12/08 17:26:00 -0800locationWashington, DCblogpublic_gist_count0public_repo_count8following_count37id39200typeUserfollowers_count2loginzstumgorenemailzstumgoren@gmail.com
+		User: zstumgoren not in DB... inserting
+UserInfo for jasonmelgoza: 	companyThe Fresno BeenameJason Melgozagravatar_ideb9c0d805b2c493dd3e9e5470bf93a45created_at2009/05/29 11:20:22 -0700locationFresnoblogblog.jmelgoza.compublic_gist_count24public_repo_count14following_count155id89980typeUserfollowers_count6loginjasonmelgozaemailjasonmelgoza@gmail.com
+		User: jasonmelgoza not in DB... inserting
+UserInfo for hdknr: 	companyLafoglia,Inc.namehdknrgravatar_idae54d83e88f763d7654431c045b64401created_at2009/07/13 19:50:31 -0700locationSendagaya,Shibuya,Tokyobloghttp://hdknr.compublic_gist_count32public_repo_count5following_count5id104647typeUserfollowers_count0loginhdknremail
+		User: hdknr not in DB... inserting
+UserInfo for micahr: 	companynameMicah Ransdellgravatar_id928841a8f514525ffe8d725745276b85created_at2009/08/03 14:04:00 -0700locationSeattle, WAbloghttp://micahr.compublic_gist_count4public_repo_count6following_count14id111574typeUserfollowers_count2loginmicahremailmjr578@gmail.com
+		User: micahr not in DB... inserting
+UserInfo for zlove: 	gravatar_id5a82da295758db316d07abd683ce0911created_at2009/07/26 09:54:18 -0700public_gist_count0public_repo_count0following_count5id108858typeUserfollowers_count0loginzlove
+		User: zlove not in DB... inserting
+UserInfo for j2labs: 	companyJ2 Labs LLCnameJames Dennisgravatar_id532c88ceb3cccb03ad63bf9184b868adcreated_at2009/01/26 21:38:00 -0800locationBrooklyn, NYbloghttp://j2labs.netpublic_gist_count26public_repo_count12following_count50id49544typeUserfollowers_count21loginj2labsemailjdennis@gmail.com
+		User: j2labs not in DB... inserting
+UserInfo for mzdaniel: 	gravatar_idfc8df21d44689e7ae763227ab9db06b0created_at2009/03/30 13:49:16 -0700public_gist_count0public_repo_count6following_count1id68684typeUserfollowers_count1loginmzdaniel
+		User: mzdaniel not in DB... inserting
+UserInfo for matclayton: 	companyMixcloudnameMat Claytongravatar_id295bc335177deca2947deb5949c40b13created_at2009/09/12 13:49:22 -0700locationCambridge, UKblogwww.matclayton.compublic_gist_count3public_repo_count14following_count68id126218typeUserfollowers_count16loginmatclaytonemailmat@wakari.co.uk
+		User: matclayton not in DB... inserting
+UserInfo for durbin: 	companyfixitonameNeil Durbingravatar_idd6a40f0afbb4054b40dc3c826e813ad4created_at2008/02/27 14:52:47 -0800locationLos Angelesbloghttp://neildurbin.compublic_gist_count0public_repo_count4following_count36id1237typeUserfollowers_count6logindurbinemailneildurbin@gmail.com
+		User: durbin not in DB... inserting
+UserInfo for oprahnoodlemantra: 	companyWinterkvist.comnameChristoffer Winterkvistgravatar_id1f673b73f0f509cabd85bd20bcbf481ccreated_at2009/02/24 03:23:48 -0800locationOslo, Norwayblogpublic_gist_count0public_repo_count1following_count17id57446typeUserfollowers_count3loginoprahnoodlemantraemail
+		User: oprahnoodlemantra not in DB... inserting
+UserInfo for kcunning: 	companyNASA / InDynenameKatie Cunninghamgravatar_id9efb6691308c779e09f66b0f14805908created_at2009/09/16 05:03:27 -0700locationWashington, DCbloghttp://elephantangelchild.blogspot.compublic_gist_count0public_repo_count7following_count24id127699typeUserfollowers_count17loginkcunningemailkatie.fulton@gmail.com
+		User: kcunning not in DB... inserting
+UserInfo for dhellmann: 	gravatar_id4021eb3a9a363520e27c736cec6905e6created_at2008/12/30 05:06:04 -0800public_gist_count0public_repo_count0following_count10id43312typeUserfollowers_count19logindhellmann
+		User: dhellmann not in DB... inserting
+UserInfo for nicksergeant: 	companyLion BurgernameNick Sergeantgravatar_ida74159ce0c29f89b75a25037e40b27a4created_at2008/10/02 14:29:30 -0700locationNew Yorkbloghttp://nicksergeant.compublic_gist_count1public_repo_count0following_count30id27332typeUserfollowers_count3loginnicksergeantemailnick@nicksergeant.com
+		User: nicksergeant not in DB... inserting
+UserInfo for gneale: 	gravatar_id0da241c2e312a03d69594ce5cbc2afabcreated_at2009/04/04 06:35:01 -0700public_gist_count0public_repo_count3following_count9id70443typeUserfollowers_count1logingneale
+		User: gneale not in DB... inserting
+UserInfo for simonw: 	companynameSimon Willisongravatar_idac7005eff7720218df4cf0c72ddf6a3dcreated_at2008/05/07 10:22:14 -0700locationBrighton, UKbloghttp://simonwillison.net/public_gist_count56public_repo_count54following_count123id9599typeUserfollowers_count566loginsimonwemailsimon@simonwillison.net
+		User: simonw not in DB... inserting
+UserInfo for pk11: 	companypinky scala & play-scalanamepeter 'kovac' hauselgravatar_ide98302802fb211bed73365b9ab809039created_at2009/09/12 05:00:21 -0700locationnew yorkbloghttp://twitter.com/pk11public_gist_count10public_repo_count11following_count9id126080typeUserfollowers_count14loginpk11emailpeter_kovac11_at_hotmail_dot_com
+		User: pk11 not in DB... inserting
+UserInfo for ye: 	companynameYe Wanggravatar_ideeb3a492f24f7d1e66825bf8760da489created_at2009/10/01 14:56:24 -0700locationNew Jersey, USAblogpublic_gist_count0public_repo_count0following_count2id133924typeUserfollowers_count0loginyeemail
+		User: ye not in DB... inserting
+UserInfo for defunkt: 	companyGitHubnameChris Wanstrathgravatar_idb8dbb1987e8e5318584865f880036796created_at2007/10/19 22:24:19 -0700locationSan Francisco, CAbloghttp://chriswanstrath.com/public_gist_count269public_repo_count96following_count188id2typeUserfollowers_count1393logindefunktemailchris@wanstrath.com
+		User: defunkt not in DB... inserting
+UserInfo for gintas: 	companynameGintautas Miliauskasgravatar_id38baaa17b9c289a3be9d861ec83c9186created_at2009/03/10 08:00:38 -0700locationVilnius, Lithuaniabloghttp://gintautas.miliauskas.ltpublic_gist_count0public_repo_count5following_count11id62007typeUserfollowers_count3logingintasemailgintautas@miliauskas.lt
+		User: gintas not in DB... inserting
+UserInfo for ortelius: 	companynameJeffrey Johnsongravatar_id6dd954b7f51092b38c651dda8efb5324created_at2009/02/22 07:38:38 -0800locationOceanside, CAblogpublic_gist_count0public_repo_count2following_count23id56838typeUserfollowers_count6loginorteliusemailortelius@gmail.com
+		User: ortelius not in DB... inserting
+UserInfo for codysoyland: 	companynameCody Soylandgravatar_iddb17092663e716b08de72e936ed082c7created_at2009/01/07 21:15:48 -0800locationLawrence, KSbloghttp://www.codysoyland.com/public_gist_count11public_repo_count19following_count54id45020typeUserfollowers_count42logincodysoylandemailcodysoyland@gmail.com
+		User: codysoyland not in DB... inserting
+UserInfo for hgezim: 	false
+Try 3: User hgezim does not exist on github.com
+UserInfo for hgezim: 	companyKalifnameGezim Hoxhagravatar_idc5485421be535cb2bf4e21f82cf8338ccreated_at2009/09/08 14:45:46 -0700locationLethbridge, Alberta, Canadabloghttp://www.gizmobooks.com/public_gist_count0public_repo_count2following_count2id124675typeUserfollowers_count0loginhgezimemail
+		User: hgezim not in DB... inserting
+UserInfo for pjanderson: 	companynamePatrick J.Andersongravatar_idc12bdad2aa104c4219edec68e2dfe46acreated_at2008/03/03 18:39:22 -0800locationblogpublic_gist_count0public_repo_count1following_count2id2099typeUserfollowers_count2loginpjandersonemailpat.j.anderson@gmail.com
+		User: pjanderson not in DB... inserting
+UserInfo for frankwiles: 	companyRevolution SystemsnameFrank Wilesgravatar_ida31d318a5359965318d604799c0d3e2ccreated_at2009/10/24 11:31:01 -0700locationLawrence, KSbloghttp://www.revsys.com/public_gist_count0public_repo_count1following_count44id144159typeUserfollowers_count22loginfrankwilesemailfrank@revsys.com
+		User: frankwiles not in DB... inserting
+UserInfo for jacobian: 	companyRevolution Systems, LLCnameJacob Kaplan-Mossgravatar_id2f5463832ccb768ccb4a1ca3607c27efcreated_at2008/08/19 08:20:56 -0700locationLawrence, KSbloghttp://jacobian.org/public_gist_count38public_repo_count25following_count24id21148typeUserfollowers_count396loginjacobianemailjacob@jacobian.org
+		User: jacobian not in DB... inserting
+UserInfo for scotu: 	companynameMatteo Scotuzzigravatar_id9ccfa413807e1c3aaa0f10ee1deef143created_at2008/02/25 10:30:32 -0800locationItalybloghttp://matteoscotuzzi.com/public_gist_count5public_repo_count3following_count33id868typeUserfollowers_count3loginscotuemailmatteo.scotuzzi@gmail.com
+		User: scotu not in DB... inserting
+UserInfo for cyberdelia: 	companynameTimothée Peigniergravatar_id5a810a7779b19a5ac9e6cffa8531eee6created_at2009/01/06 04:05:11 -0800locationFrancebloghttp://cyberdelia.tryphon.orgpublic_gist_count5public_repo_count10following_count21id44535typeUserfollowers_count7logincyberdeliaemail
+		User: cyberdelia not in DB... inserting
+UserInfo for plasticine: 	companynameJustin Morrisgravatar_id4914f38406ec528bebfc1f8248e1cf17created_at2008/07/22 23:00:48 -0700locationMelbourne, Australiablognotexceptional.compublic_gist_count6public_repo_count11following_count18id18076typeUserfollowers_count7loginplasticineemailjustin@notexceptional.com
+		User: plasticine not in DB... inserting
+UserInfo for steingrd: 	companynameSteingrim Dovlandgravatar_id4e2a5dfb9254cff4e075a8fec393b9a1created_at2008/11/28 10:10:04 -0800locationOslo, Norwaybloghttp://steingrimdovland.no/public_gist_count2public_repo_count14following_count27id37142typeUserfollowers_count8loginsteingrdemailsteingrd@ifi.uio.no
+		User: steingrd not in DB... inserting
+UserInfo for f4nt: 	companyImaginary LandcsapenameMarkgravatar_id0d665f8750f822585abc2ceed49087eecreated_at2008/12/30 01:48:09 -0800locationChicago, ILbloghttp://www.f4ntasmic.compublic_gist_count1public_repo_count19following_count28id43294typeUserfollowers_count7loginf4ntemailmarkr@imagescape.com
+		User: f4nt not in DB... inserting
+UserInfo for foomor: 	companynameDima Morozgravatar_id9876a92e3c013f93f745c56c3e573324created_at2009/10/10 19:07:20 -0700locationUkraine, Bila Tserkvabloghttp://foomor.compublic_gist_count0public_repo_count2following_count22id138119typeUserfollowers_count0loginfoomoremail
+		User: foomor not in DB... inserting
+UserInfo for sedden: 	companynameStefan Jenknergravatar_idd55b5453e5e98ad952568de4fe031b62created_at2008/11/10 05:30:40 -0800locationGermanybloghttp://www.jenkner.orgpublic_gist_count0public_repo_count11following_count5id33627typeUserfollowers_count2loginseddenemailstefan@jenkner.org
+		User: sedden not in DB... inserting
+UserInfo for philippWassibauer: 	companyMaptalesnamePhilipp Wassibauergravatar_idde19a64a628b614e95286297aea182abcreated_at2008/09/02 04:52:29 -0700locationVienna, Austriablogpublic_gist_count0public_repo_count8following_count68id22848typeUserfollowers_count17loginphilippWassibaueremailphil@maptales.com
+		User: philippWassibauer not in DB... inserting
+UserInfo for christophmeissner: 	companynameChristoph Meißnergravatar_id9195eca796c78dbee6504bc62e8c5d5ecreated_at2009/11/08 07:24:11 -0800locationJena, Germanyblogpublic_gist_count0public_repo_count1following_count6id150454typeUserfollowers_count2loginchristophmeissneremailpost@christophmeissner.de
+		User: christophmeissner not in DB... inserting
+UserInfo for teebes: 	companynameThibaud Morel l'Horsetgravatar_id89b7b2ec9a0aacef9ff077783cdc63f0created_at2009/08/19 12:22:17 -0700locationWashington, DCbloghttp://teebes.compublic_gist_count0public_repo_count4following_count10id117170typeUserfollowers_count5loginteebesemailteebes@gmail.com
+		User: teebes not in DB... inserting
+UserInfo for kadel: 	companynameTomas Kralgravatar_idcb198711265b41d879a28fd12d3aa5e9created_at2009/02/23 11:14:53 -0800locationCzech Republicblogpublic_gist_count1public_repo_count2following_count16id57206typeUserfollowers_count1loginkadelemailtomas.kral@gmail.com
+		User: kadel not in DB... inserting
+UserInfo for ryazwinski: 	companynameRick Yazwinskigravatar_id9966b0fb4604350856ad0b76fe66e4fbcreated_at2009/10/05 06:27:16 -0700locationTorontoblogpublic_gist_count2public_repo_count4following_count17id135253typeUserfollowers_count0loginryazwinskiemailricky@thinker.ca
+		User: ryazwinski not in DB... inserting
+UserInfo for justquick: 	companyWashington TimesnameJustin Quickgravatar_id063d31c517033677654704043d219008created_at2008/11/18 13:04:25 -0800locationDCbloghttp://serotoninstorm.compublic_gist_count19public_repo_count57following_count31id35289typeUserfollowers_count18loginjustquickemailjustquick@gmail.com
+		User: justquick not in DB... inserting
+UserInfo for carljm: 	companyOddBirdnameCarl Meyergravatar_iddbfb9f07d3505461ef2cc63abeec4d01created_at2009/03/09 07:10:47 -0700locationElkhart, INbloghttp://www.oddbird.netpublic_gist_count0public_repo_count25following_count17id61586typeUserfollowers_count36logincarljmemailcarl@oddbird.net
+		User: carljm not in DB... inserting
+UserInfo for strange: 	companyDistrop ABnameGustaf Sjöberggravatar_id25b3986264e61c402dce4e234ee26f90created_at2009/03/08 04:49:42 -0700locationbloggs.distrop.compublic_gist_count0public_repo_count20following_count27id61257typeUserfollowers_count2loginstrangeemailgs@distrop.com
+		User: strange not in DB... inserting
+UserInfo for dann: 	companynameDanngravatar_id6c336cac38027aee98b47d959bff77d7created_at2008/04/05 01:16:36 -0700locationJapanblogpublic_gist_count69public_repo_count52following_count261id5257typeUserfollowers_count128logindannemailtechmemo@gmail.com
+		User: dann not in DB... inserting
+UserInfo for jefftriplett: 	companyMediaphormedianameJeff Triplettgravatar_id1b3be6df639795c46dce9443d93c38bbcreated_at2009/01/30 09:42:25 -0800locationLawrence, KSbloghttp://jefftriplett.com/public_gist_count32public_repo_count9following_count60id50527typeUserfollowers_count31loginjefftriplettemailjeff.triplett@gmail.com
+		User: jefftriplett not in DB... inserting
+UserInfo for baresi: 	companynameAndreasgravatar_idb1278869034579c36c6082486f37d8cccreated_at2009/11/22 12:44:12 -0800locationSweden, Uppsalablogpublic_gist_count0public_repo_count0following_count8id156781typeUserfollowers_count0loginbaresiemail
+		User: baresi not in DB... inserting
+UserInfo for manofphysics: 	companynameYu Fu Hougravatar_idb773e29df7451ad25e05e04b6cf1b6b0created_at2009/11/22 20:02:51 -0800locationChinablogpublic_gist_count0public_repo_count0following_count50id156879typeUserfollowers_count0loginmanofphysicsemailmanofphysics4@gmail.com
+		User: manofphysics not in DB... inserting
+UserInfo for bjunix: 	gravatar_id9ab443fb438fae83ed5c3c0ecc9fdeddcreated_at2008/12/15 05:43:17 -0800public_gist_count1public_repo_count4following_count26id40524typeUserfollowers_count0loginbjunix
+		User: bjunix not in DB... inserting
+UserInfo for acdha: 	companyCACI Inc. / Library of CongressnameChris Adamsgravatar_idf5934485a0863578733c447016505547created_at2009/01/14 09:02:15 -0800locationWashington, DCbloghttp://chris.improbable.org/public_gist_count40public_repo_count41following_count120id46565typeUserfollowers_count44loginacdhaemailchris@improbable.org
+		User: acdha not in DB... inserting
+UserInfo for vikingosegundo: 	companyapp.aratschiknameManuelgravatar_idf8a5d242a902462fa41aa5466acaa8eccreated_at2009/04/16 08:51:43 -0700locationBerlinblogwhyzz.compublic_gist_count0public_repo_count2following_count2id74471typeUserfollowers_count2loginvikingosegundoemailmanuel@vikingosegundo.de
+		User: vikingosegundo not in DB... inserting
+UserInfo for suntzu: 	gravatar_id9271b24035c927c76189a6e2532f112bcreated_at2008/05/24 00:37:07 -0700public_gist_count0public_repo_count3following_count11id11372typeUserfollowers_count0loginsuntzu
+		User: suntzu not in DB... inserting
+UserInfo for regular: 	companynameJan Bölschegravatar_id3fe1c87d0fa4e8e6671c73ebef56524acreated_at2009/09/03 12:34:01 -0700locationBerlin, Germanyblogpublic_gist_count0public_repo_count5following_count9id122962typeUserfollowers_count4loginregularemailregular@muskelfisch.com
+		User: regular not in DB... inserting
+UserInfo for yedpodtrzitko: 	companynameJiří Suchangravatar_id337aee5e8a9f23a4a1a84fc6aed7a625created_at2009/12/04 18:12:49 -0800locationCzech republic, Praguebloghttp://vanyli.netpublic_gist_count0public_repo_count4following_count3id162526typeUserfollowers_count1loginyedpodtrzitkoemailyed@vanyli.net
+		User: yedpodtrzitko not in DB... inserting
+UserInfo for Pewpewarrows: 	companySelf-EmployednameMarco Chomutgravatar_id684a6ebc2185161978cefc855e2b20b4created_at2008/09/30 12:24:33 -0700locationWashington, DCblogwww.marcosmodernlife.compublic_gist_count0public_repo_count3following_count8id26976typeUserfollowers_count1loginPewpewarrowsemailmarco.chomut@gmail.com
+		User: Pewpewarrows not in DB... inserting
+UserInfo for stephanpoetschner: 	companynameStephan Pötschnergravatar_idde86c3e996f95a646f6020b84df667d4created_at2010/01/08 05:12:27 -0800locationblogblog.stephan-poetschner.atpublic_gist_count0public_repo_count6following_count71id178526typeUserfollowers_count3loginstephanpoetschneremail
+		User: stephanpoetschner not in DB... inserting
+UserInfo for seanbrant: 	companyPitchforknameSean Brantgravatar_idcc097fc865dd31bcf78733b112f47ad8created_at2009/02/27 15:49:34 -0800locationChicagobloghttp://stepsandnumbers.compublic_gist_count5public_repo_count8following_count7id58734typeUserfollowers_count1loginseanbrantemailbrant.sean@gmail.com
+		User: seanbrant not in DB... inserting
+UserInfo for badri: 	companynameLakhmi Narasimhangravatar_id270457f1819589536369a86f2cef0e08created_at2008/12/21 09:15:52 -0800locationblogbadrix.wordpress.compublic_gist_count3public_repo_count13following_count26id41959typeUserfollowers_count5loginbadriemailbadri.dilbert@gmail.com
+		User: badri not in DB... inserting
+UserInfo for Jaiball: 	gravatar_id84fa2e7780c11ff8ea627c92b8986203created_at2009/06/19 06:35:55 -0700public_gist_count0public_repo_count1following_count4id97036typeUserfollowers_count0loginJaiball
+		User: Jaiball not in DB... inserting
+UserInfo for coleifer: 	companyThe World CompanynameCharles Leifergravatar_idebd1c4256c1ece3469d2ccf3031cb6c5created_at2009/08/26 20:03:33 -0700locationUSbloghttp://charlesleifer.com/blog/public_gist_count12public_repo_count13following_count29id119974typeUserfollowers_count31logincoleiferemailcoleifer@gmail.com
+		User: coleifer not in DB... inserting
+UserInfo for vancaem: 	companynameandy van caemgravatar_id4c4d80fcece178372ba1ff14792901e2created_at2009/10/25 04:48:57 -0700locationzaandam, netherlandsblogpublic_gist_count0public_repo_count3following_count161id144384typeUserfollowers_count4loginvancaememailvancaem@me.com
+		User: vancaem not in DB... inserting
+UserInfo for semente: 	companynameGuilherme Gondimgravatar_idc0f2e7a7632abc0ecd8a1d4211949667created_at2008/10/19 17:36:58 -0700locationBelo Horizonte, Minas Gerais - Brazilbloghttp://semente.taurinus.org/public_gist_count0public_repo_count8following_count17id29862typeUserfollowers_count5loginsementeemailsemente@taurinus.org
+		User: semente not in DB... inserting
+UserInfo for kylef: 	companynameKyle Fullergravatar_idd200a17dd269fd4001bacb11662dab4bcreated_at2009/01/04 14:54:57 -0800locationOxfordshire, Englandbloghttp://kylefuller.co.uk/public_gist_count17public_repo_count15following_count6id44164typeUserfollowers_count5loginkylefemailinbox@kylefuller.co.uk
+		User: kylef not in DB... inserting
+UserInfo for tkaemming: 	companyself-employednameted kaemminggravatar_id2e1c4464fd1f13364946fa1c1456df2dcreated_at2009/03/20 09:56:25 -0700locationspringfield, moblogwww.kaemming.compublic_gist_count17public_repo_count14following_count32id65315typeUserfollowers_count11logintkaemmingemail
+		User: tkaemming not in DB... inserting
+UserInfo for HenrikJoreteg: 	company&yet (http://andyet.net)nameHenrik Joreteggravatar_idd1476770f615cba259e13290c7d5e7c3created_at2009/03/27 10:36:36 -0700locationWest Richland, WAbloghttp://joreteg.compublic_gist_count1public_repo_count8following_count19id67925typeUserfollowers_count5loginHenrikJoretegemailhjoreteg@gmail.com
+		User: HenrikJoreteg not in DB... inserting
+UserInfo for stefanfoulis: 	companydivio GmbHnameStefan Foulisgravatar_idb13d364bb38817ce8f70c58b7a0e2a7acreated_at2008/06/19 09:48:35 -0700locationSwitzerlandbloghttp://www.divio.chpublic_gist_count3public_repo_count32following_count36id14330typeUserfollowers_count11loginstefanfoulisemailstefan.foulis@gmail.com
+		User: stefanfoulis not in DB... inserting
+UserInfo for pagles: 	gravatar_idd2d85cac209f74bcca4302516e53a1afcreated_at2009/12/15 02:02:08 -0800public_gist_count0public_repo_count1following_count10id167834typeUserfollowers_count3loginpagles
+		User: pagles not in DB... inserting
+UserInfo for bernhardmaeser: 	companynameBernhard Mäsergravatar_id330a6060531f963c33041c43e7356484created_at2009/06/25 10:31:25 -0700locationVienna / Austriablogpublic_gist_count0public_repo_count2following_count6id98921typeUserfollowers_count2loginbernhardmaeseremail
+		User: bernhardmaeser not in DB... inserting
+UserInfo for sverrejoh: 	companynameSverre Johansengravatar_id7fbd6be0fb0acd878c35d5c49c485933created_at2008/02/27 14:47:02 -0800locationOslo, Norwayblogpublic_gist_count0public_repo_count8following_count15id1209typeUserfollowers_count5loginsverrejohemailsverre.johansen@gmail.com
+		User: sverrejoh not in DB... inserting
+UserInfo for donspaulding: 	companyMirus ResearchnameDon Spauldinggravatar_id9a7ad104e05b6ae61ba27b07e799c38acreated_at2008/04/17 21:40:27 -0700locationNormal, ILbloghttp://don.spauldings.net/public_gist_count0public_repo_count4following_count19id7777typeUserfollowers_count1logindonspauldingemaildonspauldingii@gmail.com
+		User: donspaulding not in DB... inserting
+UserInfo for mogga: 	companyDashing CollectivenameRobert Moggachgravatar_id69e83a678f2f0e6710c3af0042dbc1b9created_at2010/01/18 08:57:15 -0800locationToronto, ONblogdashing.tvpublic_gist_count0public_repo_count3following_count10id184759typeUserfollowers_count2loginmoggaemailrob@dashing.tv
+		User: mogga not in DB... inserting
+UserInfo for fivethreeo: 	companynameØyvind Saltvikgravatar_id02add174a2f2c399e79b43228d0d1d46created_at2008/02/19 03:00:05 -0800locationLevanger, Norwaybloghttp://fivethreeo.cylon.no/public_gist_count1public_repo_count7following_count6id410typeUserfollowers_count8loginfivethreeoemailoyvind.saltvik@gmail.com
+		User: fivethreeo not in DB... inserting
+UserInfo for joonathan: 	companynameJoonathan Mägigravatar_id6be33080c429bd2fc924921f9a4f6b23created_at2008/03/13 14:38:06 -0700locationTallinn, Estoniabloghttp://apt5.netpublic_gist_count1public_repo_count0following_count4id3045typeUserfollowers_count1loginjoonathanemail
+		User: joonathan not in DB... inserting
+UserInfo for hmarr: 	companyTraction DigitalnameHarry Marrgravatar_iddc3a4c4f6d1ae1445586e2444c435cd2created_at2009/07/30 06:29:22 -0700locationUKbloghttp://hmarr.com/public_gist_count1public_repo_count7following_count18id110275typeUserfollowers_count30loginhmarremail
+		User: hmarr not in DB... inserting
+UserInfo for jfxberns: 	companyTravelGuide.comnameJohn Bernsgravatar_id2252a591777ac457a9881e1a541cdc38created_at2010/02/07 03:54:42 -0800locationBangkokbloghttp://www.johnberns.compublic_gist_count0public_repo_count0following_count37id198921typeUserfollowers_count3loginjfxbernsemailjberns@johnberns.com
+		User: jfxberns not in DB... inserting
+UserInfo for mcroydon: 	companynameMatt Croydongravatar_id99e1f24d801de5da4cef5c4010a2c2f9created_at2008/02/27 19:05:37 -0800locationLawrence, KS, USAbloghttp://postneo.compublic_gist_count25public_repo_count14following_count131id1411typeUserfollowers_count47loginmcroydonemail
+		User: mcroydon not in DB... inserting
+UserInfo for mnaberez: 	companyMaintainable SoftwarenameMike Nabereznygravatar_id153bd89899581d16f549097ef0a06ad6created_at2009/02/07 20:39:45 -0800locationWalnut Creek, CAbloghttp://maintainable.compublic_gist_count0public_repo_count6following_count50id52712typeUserfollowers_count36loginmnaberezemailmike@naberezny.com
+		User: mnaberez not in DB... inserting
+UserInfo for hbussell: 	companynameHarley Bussellgravatar_id30f2ccba17e2d1848602cdd46a27bf70created_at2009/08/08 17:40:56 -0700locationBrisbane, Australiabloghttp://www.hbussell.compublic_gist_count4public_repo_count8following_count3id113345typeUserfollowers_count6loginhbussellemailmodmac@gmail.com
+		User: hbussell not in DB... inserting
+UserInfo for yourabi: 	companynameYousef Ourabigravatar_id124c03ce93a589b05672bcb248c0d67acreated_at2008/04/03 16:40:00 -0700locationSan Franciscobloghttp://yousefourabi.compublic_gist_count0public_repo_count3following_count35id4807typeUserfollowers_count1loginyourabiemailyourabi@gmail.com
+		User: yourabi not in DB... inserting
+UserInfo for patrickm: 	companynamePatrick Majewskigravatar_ida4f747d4444472515cc5268352efb64fcreated_at2010/02/19 08:16:54 -0800locationWarsaw/Polandblogpublic_gist_count0public_repo_count5following_count8id206838typeUserfollowers_count0loginpatrickmemailpatrykm@me.com
+		User: patrickm not in DB... inserting
+UserInfo for 72616b657368: 	companynamegravatar_iddac5f03cfcf340b1c47a8b507e0f80c8created_at2010/01/17 21:28:35 -0800locationblogpublic_gist_count2public_repo_count2following_count14id184373typeUserfollowers_count0login72616b657368email
+		User: 72616b657368 not in DB... inserting
+UserInfo for deepthawtz: 	companynameDylan Clendeningravatar_ide34dfbb343e2913dd9e77a7d4e883e60created_at2008/10/25 13:00:49 -0700locationSanta Cruz, CAbloghttp://twitter.com/deepthawtzpublic_gist_count44public_repo_count25following_count58id31030typeUserfollowers_count34logindeepthawtzemaildylan.clendenin@gmail.com
+		User: deepthawtz not in DB... inserting
+UserInfo for yumatov: 	companyTriLannameMike Yumatovgravatar_idca60613515e30914e0a28b6608f7f89bcreated_at2009/01/04 09:23:19 -0800locationVologda, RUbloghttp://yumatov.orgpublic_gist_count0public_repo_count1following_count10id44114typeUserfollowers_count0loginyumatovemailmike.yumatov@gmail.com
+		User: yumatov not in DB... inserting
+UserInfo for marcinn: 	companyI-DotComnameMarcin Nowakgravatar_id608220d6705cc3e1aa464178f5a05741created_at2009/10/12 23:03:28 -0700locationPoland, Katowicebloghttp://pep20.net/public_gist_count0public_repo_count29following_count5id139032typeUserfollowers_count1loginmarcinnemail
+		User: marcinn not in DB... inserting
+UserInfo for jpwatts: 	companyWatts Lab, Inc.nameJoel Wattsgravatar_idccc4a9d1b1eceb066cac85828989fc4ccreated_at2008/05/22 12:46:34 -0700locationHouston, TX, USAbloghttp://joelwatts.com/public_gist_count3public_repo_count6following_count1id11224typeUserfollowers_count4loginjpwattsemailjoel@joelwatts.com
+		User: jpwatts not in DB... inserting
+UserInfo for idangazit: 	false
+Try 3: User idangazit does not exist on github.com
+UserInfo for idangazit: 	companyPixane DesignnameIdan Gazitgravatar_id0d877f80c535471ede57c7a4c0f487decreated_at2008/08/31 23:55:50 -0700locationTel Aviv, Israelbloghttp://pixane.compublic_gist_count26public_repo_count19following_count16id22723typeUserfollowers_count36loginidangazitemailidan@gazit.me
+		User: idangazit not in DB... inserting
+UserInfo for vorushin: 	gravatar_id3b62ab219880374fa644d916be692045created_at2009/08/19 23:41:37 -0700public_gist_count1public_repo_count1following_count9id117378typeUserfollowers_count3loginvorushin
+		User: vorushin not in DB... inserting
+UserInfo for haron: 	gravatar_id99254d92ea0deeb5de459f1fa3ed584acreated_at2009/04/14 02:05:53 -0700public_gist_count0public_repo_count0following_count1id73594typeUserfollowers_count0loginharon
+		User: haron not in DB... inserting
+UserInfo for dgladkov: 	companynameDmitry Gladkovgravatar_id14adaee18e9b302d40530751c055244fcreated_at2009/06/23 04:35:12 -0700locationUkraine, Kharkovblogpublic_gist_count6public_repo_count3following_count8id98132typeUserfollowers_count2logindgladkovemaildmitry.gladkov@gmail.com
+		User: dgladkov not in DB... inserting
+UserInfo for zw0rk: 	gravatar_id2c31fd9e8356119cdf8229bb220fd07ccreated_at2008/12/03 07:01:32 -0800public_gist_count0public_repo_count0following_count5id38045typeUserfollowers_count4loginzw0rk
+		User: zw0rk not in DB... inserting
+UserInfo for dlimeb: 	companynameDieter Limebackgravatar_id078773389da3406ca34a37ab72ec8c79created_at2008/09/24 16:48:19 -0700locationToronto, Canadabloghttp://www.centripetal.ca/public_gist_count2public_repo_count4following_count13id26165typeUserfollowers_count4logindlimebemaildlimeb@gmail.com
+		User: dlimeb not in DB... inserting
+UserInfo for AlexMikhalev: 	companynamegravatar_idc37c50011af6c1e723d1c2252a1f9484created_at2009/01/31 03:27:43 -0800locationbloghttp://www.sci-blog.compublic_gist_count2public_repo_count3following_count12id50685typeUserfollowers_count0loginAlexMikhalevemail
+		User: AlexMikhalev not in DB... inserting
+UserInfo for allfayn: 	companynameSergey Frolovgravatar_id0ff8293243dfc4a2ce3c8fbcf8a5b52bcreated_at2009/10/05 23:49:45 -0700locationUkraineblogpublic_gist_count0public_repo_count0following_count1id135645typeUserfollowers_count0loginallfaynemail
+		User: allfayn not in DB... inserting
+UserInfo for zakhar: 	gravatar_idfbf3e801d4daaccd1023cd0e5f17a853created_at2008/11/21 05:51:11 -0800public_gist_count0public_repo_count0following_count1id35847typeUserfollowers_count0loginzakhar
+		User: zakhar not in DB... inserting
+UserInfo for MadMax76: 	gravatar_id0f63a418a631e5345c3fc97d756e971ecreated_at2010/02/21 10:46:35 -0800public_gist_count0public_repo_count0following_count1id207941typeUserfollowers_count0loginMadMax76
+		User: MadMax76 not in DB... inserting
+UserInfo for Apkawa: 	companyNya-compnameApkawagravatar_id072d3c4c0bd807f09666bb027083a340created_at2008/07/04 08:16:48 -0700locationRussiablogpublic_gist_count0public_repo_count12following_count1id16043typeUserfollowers_count0loginApkawaemail
+		User: Apkawa not in DB... inserting
+UserInfo for timjdavey: 	gravatar_id3fbc80b320d1fbec7c0a02e22001d8d0created_at2008/06/11 01:59:19 -0700public_gist_count1public_repo_count6following_count3id13322typeUserfollowers_count1logintimjdavey
+		User: timjdavey not in DB... inserting
+UserInfo for baratrion: 	companynameMehmet S. Catalbasgravatar_id26785c66c1f853007e59cf447643cc1ccreated_at2009/07/31 04:00:31 -0700locationCopenhagen, Denmarkbloghttp://baratrion.org/public_gist_count0public_repo_count3following_count1id110586typeUserfollowers_count0loginbaratrionemail
+		User: baratrion not in DB... inserting
+UserInfo for digvan: 	companynameKhashayar Dehdashtinejadgravatar_idf41fe762731ff9b3bb485b41a1632c68created_at2009/12/21 17:21:47 -0800locationblogpublic_gist_count4public_repo_count8following_count88id170750typeUserfollowers_count3logindigvanemaildigvan
+		User: digvan not in DB... inserting
+UserInfo for naspeh: 	gravatar_id8a8c0aab2e11e4c6ac53c4588009f4d1created_at2009/12/03 01:08:30 -0800public_gist_count0public_repo_count1following_count2id161289typeUserfollowers_count0loginnaspeh
+		User: naspeh not in DB... inserting
+UserInfo for voron3x: 	companynameTimur Kojevnikovgravatar_id01c6fc9bc56957d9f3ec52f9b91e975ecreated_at2010/03/15 21:23:52 -0700locationBishkek, Kyrgyzstanblogpublic_gist_count0public_repo_count1following_count2id223539typeUserfollowers_count0loginvoron3xemailvoron3x@gmail.com
+		User: voron3x not in DB... inserting
+UserInfo for zen4ever: 	companynameAndrii Kurinnyigravatar_idf11af96c0606207c40d25476c3178c99created_at2009/01/24 00:58:02 -0800locationLos Angelesbloghttp://zen4ever.posterous.compublic_gist_count1public_repo_count14following_count53id48929typeUserfollowers_count11loginzen4everemail
+		User: zen4ever not in DB... inserting
+UserInfo for stefanw: 	companynameStefan Wehrmeyergravatar_idd6ce86ffc1ad91c2d7b79c4a670c3874created_at2009/04/27 07:29:16 -0700locationBerlin, Germanybloghttp://stefanwehrmeyer.compublic_gist_count2public_repo_count9following_count14id78356typeUserfollowers_count6loginstefanwemailmail@stefanwehrmeyer.com
+		User: stefanw not in DB... inserting
+UserInfo for rudyryk: 	companynameAlexeygravatar_id5cb19c2752877d18595e61428d9dabbacreated_at2008/04/03 06:34:55 -0700locationRussia, Moscowbloghttp://05bit.compublic_gist_count2public_repo_count2following_count3id4500typeUserfollowers_count0loginrudyrykemailrudi@05bit.com
+		User: rudyryk not in DB... inserting
+UserInfo for dgouldin: 	companyMoka LabsnameDavid Gouldingravatar_idf843b1fa73b28f2b0d7c87b006a6441ccreated_at2009/02/18 07:07:56 -0800locationDenton, TXblogpublic_gist_count0public_repo_count7following_count17id55577typeUserfollowers_count3logindgouldinemaildgouldin@gmail.com
+		User: dgouldin not in DB... inserting
+UserInfo for prestontimmons: 	companyGospel for AsianamePreston Timmonsgravatar_id3720b893805199115d4c984032f4e17fcreated_at2010/02/19 15:04:19 -0800locationDallas, TXblogpublic_gist_count17public_repo_count3following_count26id207051typeUserfollowers_count0loginprestontimmonsemailprestontimmons@gmail.com
+		User: prestontimmons not in DB... inserting
+UserInfo for sunoano: 	companynameMarkus Gattolgravatar_id0c855c8592065f2b52124920c9852a1bcreated_at2009/02/13 03:50:26 -0800locationEuropebloghttp://www.markus-gattol.namepublic_gist_count4public_repo_count15following_count16id54231typeUserfollowers_count2loginsunoanoemailmarkus.gattol@sunoano.org
+		User: sunoano not in DB... inserting
+UserInfo for andrulik: 	companynameAndrey Moskalenkogravatar_id2562bd11fe9d979b0391758de07dcfbfcreated_at2009/03/25 01:22:20 -0700locationDonetsk, Ukraineblogtwitter.com/andrulikpublic_gist_count4public_repo_count2following_count98id66896typeUserfollowers_count5loginandrulikemailandrulik+github@gmail.com
+		User: andrulik not in DB... inserting
+UserInfo for diox: 	companynameMathieu Pillardgravatar_id871823c8bd11717ef873b77584ad0989created_at2010/01/21 07:30:31 -0800locationbloghttp://virgule.net/public_gist_count0public_repo_count1following_count31id187006typeUserfollowers_count11logindioxemail
+		User: diox not in DB... inserting
+UserInfo for myfreeweb: 	companynamegravatar_id3d361879edcae91e3805021a719c5087created_at2010/02/22 04:26:20 -0800locationRussia, Moscowbloghttp://en.myfreeweb.rupublic_gist_count9public_repo_count10following_count57id208340typeUserfollowers_count4loginmyfreewebemailme@myfreeweb.ru
+		User: myfreeweb not in DB... inserting
+UserInfo for jrenaut: 	companyManfred MacxnameJon Renautgravatar_id8c869433473f9811059ca5a708721efdcreated_at2010/03/07 18:31:22 -0800locationWashington, DC, USAbloghttp://www.manfredmacx.compublic_gist_count0public_repo_count1following_count4id218084typeUserfollowers_count1loginjrenautemail
+		User: jrenaut not in DB... inserting
+UserInfo for minarets: 	companynameMaura Chacegravatar_idc604ce56c629f56032c2ae3f1dd1f870created_at2009/08/17 13:11:21 -0700locationAtlanta, GAbloghttp://www.maurachace.com/public_gist_count3public_repo_count7following_count15id116294typeUserfollowers_count7loginminaretsemailminarets@gmail.com
+		User: minarets not in DB... inserting
+UserInfo for apgwoz: 	companyMeetup, IncnameAndrew Gwozdziewyczgravatar_idd543a7491b7b47ec7c3e8f259a75d2ddcreated_at2009/01/06 05:00:11 -0800locationBrooklyn, NYbloghttp://apgwoz.compublic_gist_count7public_repo_count25following_count21id44547typeUserfollowers_count33loginapgwozemailweb@apgwoz.com
+		User: apgwoz not in DB... inserting
+UserInfo for oshea: 	gravatar_idd8b1293d2dc806595aebb37410fc89cdcreated_at2010/03/09 13:52:35 -0800public_gist_count0public_repo_count0following_count1id219413typeUserfollowers_count0loginoshea
+		User: oshea not in DB... inserting
+UserInfo for rooty: 	companySeaNET ISPnameBlack Catgravatar_idc28c3ab77113aaf77e4badb04bf8dd59created_at2010/01/13 02:20:08 -0800locationUkraine, Odessabloghttp://blog.chm.od.uapublic_gist_count0public_repo_count2following_count5id181341typeUserfollowers_count2loginrootyemailrooty@chm.od.ua
+		User: rooty not in DB... inserting
+UserInfo for k1000: 	gravatar_ida43a437e4b6a2d779e977aaec57cc9e4created_at2008/05/20 07:40:26 -0700public_gist_count3public_repo_count7following_count8id10878typeUserfollowers_count1logink1000
+		User: k1000 not in DB... inserting
+UserInfo for thmghtd: 	gravatar_id2e66d822a07735e27cd30dcc572a071fcreated_at2009/09/05 09:39:36 -0700public_gist_count0public_repo_count57following_count193id123606typeUserfollowers_count1loginthmghtd
+		User: thmghtd not in DB... inserting
+UserInfo for alek2: 	gravatar_id0168f699d6f7e962d4238898539af7a1created_at2010/03/04 08:39:02 -0800public_gist_count0public_repo_count0following_count1id215834typeUserfollowers_count0loginalek2
+		User: alek2 not in DB... inserting
+UserInfo for zimyand: 	companynameDmitrygravatar_id59738c31901a848e919bdd6fbb740708created_at2010/01/21 11:49:16 -0800locationKievblogzimyand.org.uapublic_gist_count0public_repo_count1following_count1id187157typeUserfollowers_count0loginzimyandemailzimyand@gmail.com
+		User: zimyand not in DB... inserting
+UserInfo for sdb: 	companynameStefan De Boeygravatar_id1c11b6df183cde7ba372c8b62016b0c0created_at2010/03/27 10:43:01 -0700locationBelgiumblogpublic_gist_count2public_repo_count3following_count5id231675typeUserfollowers_count0loginsdbemail
+		User: sdb not in DB... inserting
+UserInfo for darrylhebbes: 	gravatar_id23adf1614d2738b3ef3ff46456f5ce1ccreated_at2010/04/08 04:46:19 -0700public_gist_count0public_repo_count0following_count4id239479typeUserfollowers_count0logindarrylhebbes
+		User: darrylhebbes not in DB... inserting
+UserInfo for fabiant7t: 	companyschnee von morgen webTV GmbHnameFabian Topfstedtgravatar_idc1082f6414c24d54362f5956a1f85659created_at2009/05/06 02:33:47 -0700locationVienna, Austriabloghttp://topfstedt.depublic_gist_count0public_repo_count10following_count48id81570typeUserfollowers_count11loginfabiant7temailtopfstedt@schneevonmorgen.com
+		User: fabiant7t not in DB... inserting
+UserInfo for edwelker: 	companyNational Center for Biotechnology InformationnameEddie Welkergravatar_id503da17c6c06585c61bc0f82523af5dfcreated_at2008/06/18 16:13:22 -0700locationBethesda, Marylandbloghttp://eddiewelker.compublic_gist_count0public_repo_count6following_count17id14247typeUserfollowers_count0loginedwelkeremaileddie.welker@gmail.com
+		User: edwelker not in DB... inserting
+UserInfo for maximbo: 	companynameMaxim Bodyanskygravatar_idcd9b7ad28a7ad1cf11e12ada807838c4created_at2009/05/13 06:30:53 -0700locationMoscowblogpublic_gist_count0public_repo_count3following_count3id84084typeUserfollowers_count0loginmaximboemailbodyansky@gmail.com
+		User: maximbo not in DB... inserting
+UserInfo for ojii: 	companydivio GmbHnameJonas Obristgravatar_idb4f902096ea2ccfce71443d1d8fee5b3created_at2009/10/17 14:48:48 -0700locationZurich, Switzerlandblogwww.divio.chpublic_gist_count10public_repo_count23following_count6id141122typeUserfollowers_count12loginojiiemailjonas.obrist@divio.ch
+		User: ojii not in DB... inserting
+UserInfo for hcarvalhoalves: 	companynameHenrique Carvalho Alvesgravatar_id667bd007bac994a1441386ac4d2beb2bcreated_at2009/12/03 12:41:35 -0800locationSão Paulo, Brazilbloghttp://flavors.me/hcalvespublic_gist_count0public_repo_count2following_count3id161577typeUserfollowers_count1loginhcarvalhoalvesemailhcarvalhoalves@gmail.com
+		User: hcarvalhoalves not in DB... inserting
+UserInfo for jonasvp: 	companyJonas & der WolfnameJonasgravatar_id4bc2c9cff29df9a24177c955f63bd086created_at2009/08/19 10:53:40 -0700locationBerlin, Germanybloghttp://www.jonasundderwolf.depublic_gist_count0public_repo_count8following_count5id117138typeUserfollowers_count2loginjonasvpemailjvp@jonasundderwolf.de
+		User: jonasvp not in DB... inserting
+UserInfo for jedie: 	companyhttp://www.htfx.denameJens Diemergravatar_ide1bd198b05ea9a26a1d154e24882d75ccreated_at2009/04/07 03:18:55 -0700locationgermanybloghttp://www.jensdiemer.depublic_gist_count0public_repo_count18following_count5id71315typeUserfollowers_count0loginjedieemail
+		User: jedie not in DB... inserting
+UserInfo for coderanger: 	companynameNoah Kantrowitzgravatar_idcf611565f0b79abd0b3dc200ad867661created_at2009/09/17 11:54:00 -0700locationCampbell, CA, USAbloghttp://coderanger.net/public_gist_count5public_repo_count6following_count25id128243typeUserfollowers_count7logincoderangeremailnoah@coderanger.net
+		User: coderanger not in DB... inserting
+UserInfo for akrito: 	companynameAlex Kritikosgravatar_id54be9b11123d6c7ad95daccdece0318acreated_at2009/02/18 18:32:04 -0800locationblogpublic_gist_count19public_repo_count10following_count27id55769typeUserfollowers_count22loginakritoemail
+		User: akrito not in DB... inserting
+UserInfo for onehandclapping: 	gravatar_id31f746e01f8e8c8d20029b95d36cab2acreated_at2010/05/05 04:20:50 -0700public_gist_count0public_repo_count0following_count2id265478typeUserfollowers_count0loginonehandclapping
+		User: onehandclapping not in DB... inserting
+UserInfo for iamteem: 	companySinefunc, Inc.nameTim Medinagravatar_idae14fc06c32785237d5d5d076c7dda8bcreated_at2008/03/31 08:18:11 -0700locationPasig City, Philippinesbloghttp://www.timmedina.netpublic_gist_count5public_repo_count5following_count37id4166typeUserfollowers_count8loginiamteememailiamteem@gmail.com
+		User: iamteem not in DB... inserting
+UserInfo for pkese: 	gravatar_id59cd81b6ab4a37d959d8555400710ab2created_at2010/05/16 09:20:09 -0700public_gist_count0public_repo_count0following_count1id278492typeUserfollowers_count0loginpkese
+		User: pkese not in DB... inserting
+UserInfo for adamv: 	companynameAdam Vandenberggravatar_id7ea0cc75793eb2b1ada4abc953a41592created_at2008/03/21 10:11:01 -0700locationIssaquah, WAbloghttp://adamv.com/public_gist_count85public_repo_count72following_count49id3566typeUserfollowers_count42loginadamvemailflangy@gmail.com
+		User: adamv not in DB... inserting
+UserInfo for thinkingpotato: 	companynamethinkingpotatogravatar_ida1ac763818dfd64d3129a81cbdff38accreated_at2009/09/03 17:33:50 -0700locationblogpublic_gist_count0public_repo_count2following_count5id123057typeUserfollowers_count1loginthinkingpotatoemail
+		User: thinkingpotato not in DB... inserting
+UserInfo for selwin: 	companynameSelwin Onggravatar_idf7c2b3621eb14640ae49eb97b9cea64fcreated_at2010/01/23 20:00:12 -0800locationblogpublic_gist_count4public_repo_count1following_count5id188658typeUserfollowers_count1loginselwinemail
+		User: selwin not in DB... inserting
+UserInfo for tezlo: 	gravatar_id29e64ceba1e2f0d288cd184c03cb236bcreated_at2009/06/06 20:27:23 -0700public_gist_count0public_repo_count1following_count9id92738typeUserfollowers_count0logintezlo
+		User: tezlo not in DB... inserting
+UserInfo for gastlygem: 	gravatar_id8f710bf0f4de6c87f8dc0718223806d4created_at2008/10/29 20:54:01 -0700public_gist_count0public_repo_count0following_count1id31764typeUserfollowers_count0logingastlygem
+		User: gastlygem not in DB... inserting
+UserInfo for arkx: 	companyNorfello OynameAku Kotkavuogravatar_idc4bed43fa61c0aaab802da96e2bfbac9created_at2008/05/09 04:48:53 -0700locationHelsinki, Finlandblogpublic_gist_count0public_repo_count5following_count19id9784typeUserfollowers_count1loginarkxemailaku@hibana.net
+		User: arkx not in DB... inserting
+UserInfo for Edgecrusher7711: 	companyQuality Attributes SoftwarenameBeaugravatar_id2fbb998c15b56e93a92a89ebda6415ebcreated_at2009/05/08 12:50:05 -0700locationAmes, IAblogpublic_gist_count0public_repo_count2following_count4id82531typeUserfollowers_count0loginEdgecrusher7711emaillyddonb@gmail.com
+		User: Edgecrusher7711 not in DB... inserting
+UserInfo for marktran: 	companynameMark Trangravatar_id812b8017596a9c5511a8c32184e53450created_at2008/08/29 16:38:33 -0700locationSan Francisco, CAbloghttp://mark.nirv.netpublic_gist_count1public_repo_count6following_count23id22543typeUserfollowers_count6loginmarktranemail
+		User: marktran not in DB... inserting
+UserInfo for pkeane: 	companyUT AustinnamePeter Keanegravatar_id7e8f40a05adf2c3ddc3f5c6f49fb94d1created_at2008/05/07 12:55:41 -0700locationAustin, TXbloghttp://blogs.law.harvard.edu/pkeanepublic_gist_count0public_repo_count25following_count39id9613typeUserfollowers_count10loginpkeaneemailpkeane@mail.utexas.edu
+		User: pkeane not in DB... inserting
+UserInfo for mkalas: 	gravatar_ida67c5e788130b2c4526e6ab774d66bc1created_at2010/01/20 00:43:57 -0800public_gist_count0public_repo_count0following_count5id186051typeUserfollowers_count0loginmkalas
+		User: mkalas not in DB... inserting
+UserInfo for sidmitra: 	companynameSiddharth Mitragravatar_id697548ba6c88a7f9814c6c8d5ae7d0d6created_at2009/07/26 01:54:10 -0700locationNew Delhi, Indiabloghttp://sidmitra.compublic_gist_count0public_repo_count11following_count4id108775typeUserfollowers_count4loginsidmitraemailsidmitra.del@gmail.com
+		User: sidmitra not in DB... inserting
+UserInfo for sk1p: 	gravatar_id4687217e366d84f7bcb2a114a89afb21created_at2008/04/07 23:31:15 -0700public_gist_count0public_repo_count1following_count4id5778typeUserfollowers_count2loginsk1p
+		User: sk1p not in DB... inserting
+UserInfo for pfhawkins: 	false
+Try 3: User pfhawkins does not exist on github.com
+UserInfo for pfhawkins: 	companynameP. F. Hawkinsgravatar_id7033d0e84d10d256a4b850461f69a10bcreated_at2008/04/05 06:59:43 -0700locationbloghttp://pfhawkins.compublic_gist_count3public_repo_count1following_count10id5287typeUserfollowers_count5loginpfhawkinsemailpf@pfhawkins.com
+		User: pfhawkins not in DB... inserting
+UserInfo for homoludens: 	companyhttp://droopia.netnameMarko Đorđevićgravatar_id21f23bdf67f0be4cd13d42ac51843af0created_at2009/06/20 14:30:19 -0700locationBelgradeblogpublic_gist_count1public_repo_count9following_count9id97393typeUserfollowers_count4loginhomoludensemailmarko.homoludens@gmail.com
+		User: homoludens not in DB... inserting
+UserInfo for titusz: 	companynameTituszgravatar_id72ac433a04f6cfb2d41c3ce1b5960180created_at2010/05/16 10:53:21 -0700locationblogpublic_gist_count0public_repo_count1following_count1id278556typeUserfollowers_count0logintituszemail
+		User: titusz not in DB... inserting
+UserInfo for asenchi: 	companyEngine YardnameCurt Micolgravatar_idf10fbf2ec03a78d9c178d198d1c48b62created_at2008/02/27 16:06:31 -0800locationLansing, MIbloghttp://asenchi.compublic_gist_count64public_repo_count32following_count131id1329typeUserfollowers_count23loginasenchiemailasenchi@asenchi.com
+		User: asenchi not in DB... inserting
+UserInfo for madewulf: 	companyhttp://zofa.biznameMartin De Wulfgravatar_id8aa9d355a2086d4b1bc1ed8f8e6a758bcreated_at2010/01/19 14:50:29 -0800locationBrussels, Belgiumbloghttp://multitasked.netpublic_gist_count0public_repo_count3following_count15id185797typeUserfollowers_count0loginmadewulfemailmadewulf@gmail.com
+		User: madewulf not in DB... inserting
+UserInfo for dominno: 	companynameDominik Szopagravatar_id25cf66e4ecb9887c788ef2d13a2f8c16created_at2009/11/09 03:30:05 -0800locationPolandblogdominno.plpublic_gist_count0public_repo_count6following_count11id150737typeUserfollowers_count3logindominnoemaildszopa@gmail.com
+		User: dominno not in DB... inserting
+UserInfo for j4mie: 	companynameJamie Matthewsgravatar_idd3377baa721f0f539ddf518c8cef9983created_at2008/04/12 12:37:12 -0700locationBrighton, UKbloghttp://www.j4mie.orgpublic_gist_count10public_repo_count8following_count36id6988typeUserfollowers_count8loginj4mieemailjamie.matthews@gmail.com
+		User: j4mie not in DB... inserting
+UserInfo for benthomasson: 	gravatar_ida8fb2a7ca9541e17600c23071dca75f5created_at2009/01/05 11:57:01 -0800public_gist_count0public_repo_count12following_count4id44381typeUserfollowers_count0loginbenthomasson
+		User: benthomasson not in DB... inserting
+UserInfo for iki: 	companynamegravatar_id9bcac4dcb89ab38fd70da1430f4ef754created_at2009/11/06 05:12:40 -0800locationblogpublic_gist_count3public_repo_count1following_count8id149730typeUserfollowers_count0loginikiemail
+		User: iki not in DB... inserting
+UserInfo for johnpena: 	companynameJohn Penagravatar_id86851ea896a66c93e7b86d2e3bc2c546created_at2009/01/01 17:49:21 -0800locationPalo Alto, CAblogjpena.posterous.compublic_gist_count0public_repo_count6following_count10id43687typeUserfollowers_count2loginjohnpenaemailjohn.pena@gmail.com
+		User: johnpena not in DB... inserting
+UserInfo for psychotechnik: 	companyEloquent BitsnamePhilip Kalinskygravatar_id065f3aed68ca9333592f38d9def95b35created_at2010/03/11 11:40:38 -0800locationNew York Citybloghttp://www.eloquentbits.compublic_gist_count0public_repo_count4following_count7id220828typeUserfollowers_count2loginpsychotechnikemailphilip.kalinsky@eloquentbits.com
+		User: psychotechnik not in DB... inserting
+UserInfo for heynemann: 	companyGlobo.comnameBernardo Heynemanngravatar_ideca21e5e47811c60e03087fc311e1d29created_at2009/03/06 17:46:32 -0800locationRio de Janeiro, RJ, Brazilbloghttp://blogs.manicprogrammer.com/heynemannpublic_gist_count8public_repo_count31following_count115id60965typeUserfollowers_count41loginheynemannemailheynemann@gmail.com
+		User: heynemann not in DB... inserting
+UserInfo for cpharmston: 	companyThreespotnameChuck Harmstongravatar_idb47236d3d68eb3ba90b95d36356e8d51created_at2008/09/09 15:32:11 -0700locationWashington, DCblogpublic_gist_count2public_repo_count6following_count54id23885typeUserfollowers_count7logincpharmstonemail
+		User: cpharmston not in DB... inserting
+UserInfo for tmitchell: 	companyExoAnalytic SolutionsnameTaylor Mitchellgravatar_iddd70e6bb774d0fb22ac8dc72f09a6967created_at2009/12/01 16:56:03 -0800locationblogpublic_gist_count1public_repo_count4following_count1id160615typeUserfollowers_count0logintmitchellemail
+		User: tmitchell not in DB... inserting
+UserInfo for isati: 	gravatar_idee5d4a686cae1e64fc4d9afd41c2f1b0created_at2010/03/20 17:37:58 -0700public_gist_count0public_repo_count1following_count2id227061typeUserfollowers_count1loginisati
+		User: isati not in DB... inserting
+UserInfo for bitprophet: 	companyDigital PulpnameJeff Forciergravatar_idf1acc6318028fdba9874c77bc622a2fbcreated_at2008/04/09 12:43:48 -0700locationJersey City, NJ (NYC)blogpublic_gist_count17public_repo_count6following_count5id6088typeUserfollowers_count53loginbitprophetemailjeff@bitprophet.org
+		User: bitprophet not in DB... inserting
+UserInfo for tezro: 	companynamegravatar_id7b0effed030bd0b11f5249641696cf71created_at2010/01/24 07:42:14 -0800locationbloghttp://www.whitespace.ru/public_gist_count0public_repo_count1following_count6id188876typeUserfollowers_count0logintezroemail
+		User: tezro not in DB... inserting
+UserInfo for peplin: 	companyBuedanameChristopher Peplingravatar_idbbc46265de4ebbedf89a29c65daf5080created_at2010/01/17 13:57:22 -0800locationPittsburgh, PAblogpublic_gist_count5public_repo_count9following_count4id184212typeUserfollowers_count1loginpeplinemailpeplin@bueda.com
+		User: peplin not in DB... inserting
+UserInfo for Crath: 	companynameShane Reustlegravatar_ida51889c6d9aeff3bca3afef1dd5d631ccreated_at2010/06/13 22:34:08 -0700locationPhiladelphia, Pabloghttp://shanereustle.compublic_gist_count0public_repo_count0following_count22id304560typeUserfollowers_count0loginCrathemailsreustle@gmail.com
+		User: Crath not in DB... inserting
+UserInfo for rytis: 	companynameRytis Sileikagravatar_id6ad146d5dadc7801ca51cb4c0ca50ef1created_at2010/06/22 06:28:05 -0700locationLondon, UKblogwww.sysadminpy.compublic_gist_count0public_repo_count4following_count8id311736typeUserfollowers_count0loginrytisemailrytis.sileika@gmail.com
+		User: rytis not in DB... inserting
+UserInfo for andywhite37: 	companynameAndy Whitegravatar_id5bf1f11c3493fb7dc5b4045c90a80403created_at2010/05/12 12:05:22 -0700locationDenver, CObloghttp://acdub.com/blogpublic_gist_count0public_repo_count0following_count26id274734typeUserfollowers_count0loginandywhite37emailgreatwhitehope@gmail.com
+		User: andywhite37 not in DB... inserting
+UserInfo for jurajpelikan: 	companynameJuraj Pelikangravatar_id58eef6fe14afe2962ebc9923a4671330created_at2010/01/13 12:38:44 -0800locationblogpublic_gist_count0public_repo_count0following_count4id181692typeUserfollowers_count0loginjurajpelikanemail
+		User: jurajpelikan not in DB... inserting
+UserInfo for gchandrasa: 	companynameGilang Chandrasagravatar_ida8ade74e8951f8a460b70aaed841fe7fcreated_at2009/01/28 00:46:31 -0800locationblogpublic_gist_count2public_repo_count3following_count10id49891typeUserfollowers_count0logingchandrasaemail
+		User: gchandrasa not in DB... inserting
+UserInfo for peterbe: 	companyFry-ITnamePeter Bengtssongravatar_id23c6d359b6f7af3d3f91ca9e17b804b3created_at2008/09/29 07:09:24 -0700locationLondon, United Kingdomblogwww.peterbe.compublic_gist_count0public_repo_count10following_count11id26739typeUserfollowers_count14loginpeterbeemailpeter@fry-it.com
+		User: peterbe not in DB... inserting
+UserInfo for defn: 	companyThinkSlatenameDefn Waltersgravatar_ided8cd6f26fffbe2b783df3b12508dfd0created_at2008/05/15 11:58:51 -0700locationUSAbloghttp://devinwalters.compublic_gist_count63public_repo_count30following_count95id10421typeUserfollowers_count17logindefnemail(apply str (reverse "moc tod liamg ta wnived"))
+		User: defn not in DB... inserting
+UserInfo for gregor-muellegger: 	companyGregor Müllegger Software SolutionsnameGregor Mülleggergravatar_ida95e179cef454d03e097d09a28edf0f9created_at2009/05/25 03:51:21 -0700locationAugsburg, Germanybloghttp://gremu.net/public_gist_count1public_repo_count2following_count6id88278typeUserfollowers_count3logingregor-muelleggeremailgregor@muellegger.de
+		User: gregor-muellegger not in DB... inserting
+UserInfo for passy: 	companywelusenamePascal Hartiggravatar_idf53b5c95cb8ca8ec9d39999a9449e53fcreated_at2008/05/10 17:30:07 -0700locationKiel, Germanybloghttp://rdrei.net/public_gist_count9public_repo_count12following_count19id9906typeUserfollowers_count4loginpassyemailboyerchen@gmail.com
+		User: passy not in DB... inserting
+UserInfo for astrofinch: 	gravatar_id3b21ed4e7c4c3df919d90227efeb871fcreated_at2010/07/05 20:23:45 -0700public_gist_count0public_repo_count4following_count3id323824typeUserfollowers_count0loginastrofinch
+		User: astrofinch not in DB... inserting
+UserInfo for dandamian: 	companyMauvanameDan Damiangravatar_id89968d9887df140923a9bc1392f0a49acreated_at2009/03/14 21:24:07 -0700locationTimisoara, Romaniablogpublic_gist_count0public_repo_count1following_count3id63551typeUserfollowers_count0logindandamianemaildandamian@gmail.com
+		User: dandamian not in DB... inserting
+UserInfo for DasIch: 	companynameDaniel Neuhäusergravatar_id6abd0c61e52309fc49644db101eb49a3created_at2010/01/14 08:38:38 -0800locationbloghttp://dasdasich.blogspot.com/public_gist_count0public_repo_count5following_count15id182316typeUserfollowers_count1loginDasIchemaildasdasich@gmail.com
+		User: DasIch not in DB... inserting
+UserInfo for Gautier: 	companyFry-ITnameGautier Hayoungravatar_id93c729599f301a71c5bd9df7beedc059created_at2008/06/12 09:53:35 -0700locationLondon, UKblogpepsdev.compublic_gist_count5public_repo_count6following_count3id13497typeUserfollowers_count1loginGautieremailghayoun@gmail.com
+		User: Gautier not in DB... inserting
+UserInfo for lboaretto: 	companynameLuiz Boarettogravatar_id74770d01aaade3668012b65c7c8574aecreated_at2008/11/21 10:35:12 -0800locationblogpublic_gist_count0public_repo_count4following_count156id35883typeUserfollowers_count5loginlboarettoemaillboaretto@gmail.com
+		User: lboaretto not in DB... inserting
+UserInfo for allait: 	gravatar_id0f0ce960e87365e188c20d6801c18707created_at2010/04/18 07:33:54 -0700public_gist_count0public_repo_count0following_count2id246664typeUserfollowers_count0loginallait
+		User: allait not in DB... inserting
+/api/v2/yaml/user/show/jezdez/following

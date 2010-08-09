@@ -58,55 +58,97 @@ begin
 
 
 Net::HTTP.start('github.com') { |http|
-    for username in users
+  for username in users {
+    followers = []
+    following = []
+    
+    
+    if !github.is_user_in_db(username, dbh) then
+    
+        # Fetching followers
+        url = "/api/v2/yaml/user/show/#{username}/followers"
+        req = Net::HTTP::Get.new(url)
+        response = http.request(req)
+        case response 
+          when Net::HTTPSuccess
+              
+              for link in YAML.load(response.body)["users"]
+                  followers << link
+              end
+          when Net::HTTPForbidden
+            puts "\n\tHave to wait for 60 seconds\n"
+             sleep 60
+             redo
+          else
+              puts "non-200: #{username} + #{response}"
+        end
+        
+        # fetching followings
+        url = "/api/v2/yaml/user/show/#{username}/following"
+        puts url
+        req = Net::HTTP::Get.new(url)
+        response = http.request(req)
+        case response 
+          when Net::HTTPSuccess
+              
+              for link in YAML.load(response.body)["users"]
+                  following << link
+              end
+          when Net::HTTPForbidden
+              puts "\n\tHave to wait for 60 seconds\n"
+              sleep 60
+              redo
+          else
+              puts "non-200: #{username}"
+        end
         
         
-        if !github.is_user_in_db(username, dbh) then
-            # sleep 1
-            url = "/api/v2/yaml/user/show/#{username}/followers"
-            puts url
-            req = Net::HTTP::Get.new(url)
-            response = http.request(req)
-            case response 
-              when Net::HTTPSuccess
-                  followers = []
-                  for link in YAML.load(response.body)["users"]
-                      followers << link
-                  end
-              else
-                  puts "non-200: #{username}"
+        # add username to Database
+        userid = github.add_user_to_db(username, dbh)
+        
+        # process followers
+        followers.each{|f|
+        
+          if github.is_user_in_db(f , dbh) then
+            if fid = github.get_id_from_user(f, dbh) then
+              nil
+            else
+              puts "SEVERE ERROR IN DB with User: #{f}"
+              break 
             end
-            f = followers.join(sep=',')
-            dbh.query("INSERT INTO github_users (username, followers) VALUES('#{username}', '#{f}')")
-            
-            
-            #sleep 1
-            url = "/api/v2/yaml/user/show/#{username}/following"
-            puts url
-            req = Net::HTTP::Get.new(url)
-            response = http.request(req)
-            case response 
-              when Net::HTTPSuccess
-                  following = []
-                  for link in YAML.load(response.body)["users"]
-                      following << link
-                  end
+          else
+            fid = github.add_user_to_db(f, dbh)
+          end
+          
+          github.add_edge(userid, fid, dbh)
+          
+          }
+        
+        # process followings
+        following.each{|f|
+        
+            if github.is_user_in_db(f , dbh) then
+              if fid = github.get_id_from_user(f, dbh) then
+                nil
               else
-                  puts "non-200: #{username}"
+                puts "SEVERE ERROR IN DB with User: #{f}"
+                break
+              end
+            else
+              fid = github.add_user_to_db(f, dbh)
             end
             
-            f = following.join(sep=',')
-            dbh.query("UPDATE github_users SET followings = '#{f}' WHERE username='#{username}'")
+              github.add_edge(fid, userid, dbh)
             
-            
+            }
       else
-        puts "User #{username} already in database \n"
-        
-      end
-        
-    end
-}
+            puts "User #{username} already in database \n"
 
+      end 
+    
+  } 
+}
+  
 
 
 

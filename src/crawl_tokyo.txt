@@ -1,0 +1,169 @@
+Getting URLs
+Fetching for Bremen 
+Username: alexrepty
+Username: phbaer
+Username: stffn
+Username: Safadurimo
+Username: dbloete
+Username: doudou
+Username: walski
+Username: ahaller
+Username: lbehnke
+Username: arbovm
+Username: nilsr
+Username: schnief
+Username: kpbode
+Username: dzogi
+Username: geek4good
+Username: TeaMoe
+Username: jceb
+Username: momesana
+Username: phantomas1234
+Username: corny
+Username: digineo
+Username: markheckmann
+Username: marekj
+Username: netjungle
+Username: dantz
+Username: kulpae
+Username: GuRaX
+Username: erotte
+Username: mhuebner
+Username: digineo
+Username: markheckmann
+Username: marekj
+Username: netjungle
+Username: dantz
+Username: kulpae
+Username: GuRaX
+Username: erotte
+Username: mhuebner
+Number of results: 38 
+Server version: 5.1.38
+/api/v2/yaml/user/show/alexrepty/followers
+Userinfo: alexrepty
+		User: alexrepty not in DB... inserting
+Userinfo: chucker
+		User: chucker not in DB... inserting
+Userinfo: totocaster
+		User: totocaster not in DB... inserting
+Userinfo: willi
+		User: willi not in DB... inserting
+Userinfo: dbloete
+		User: dbloete not in DB... inserting
+Userinfo: bfolberth
+		User: bfolberth not in DB... inserting
+Userinfo: dima767
+		User: dima767 not in DB... inserting
+Userinfo: jk
+		User: jk not in DB... inserting
+Userinfo: MorleSolutions
+		User: MorleSolutions not in DB... inserting
+Userinfo: tarasis
+		User: tarasis not in DB... inserting
+Userinfo: jjungnickel
+		User: jjungnickel not in DB... inserting
+Userinfo: Perspx
+		User: Perspx not in DB... inserting
+Userinfo: ollielevy
+		User: ollielevy not in DB... inserting
+Userinfo: perlmunger
+		User: perlmunger not in DB... inserting
+Userinfo: vkirilov
+		User: vkirilov not in DB... inserting
+Userinfo: crafterm
+		User: crafterm not in DB... inserting
+Userinfo: shauber
+		User: shauber not in DB... inserting
+Userinfo: pburleson
+		User: pburleson not in DB... inserting
+Userinfo: ciukes
+		User: ciukes not in DB... inserting
+Userinfo: AlejandroJL
+		User: AlejandroJL not in DB... inserting
+Userinfo: pyrasis
+		User: pyrasis not in DB... inserting
+Userinfo: zykloid
+		User: zykloid not in DB... inserting
+Userinfo: misecia
+		User: misecia not in DB... inserting
+Userinfo: d4kr
+		User: d4kr not in DB... inserting
+Userinfo: branesks
+		User: branesks not in DB... inserting
+Userinfo: CodeThink
+		User: CodeThink not in DB... inserting
+Userinfo: mneuwert
+		User: mneuwert not in DB... inserting
+Userinfo: elango
+		User: elango not in DB... inserting
+Userinfo: jfahrenkrug
+		User: jfahrenkrug not in DB... inserting
+Userinfo: luciuskwok
+		User: luciuskwok not in DB... inserting
+Userinfo: dantz
+		User: dantz not in DB... inserting
+Userinfo: ElGrowZone
+		User: ElGrowZone not in DB... inserting
+Userinfo: hlu
+		User: hlu not in DB... inserting
+/api/v2/yaml/user/show/alexrepty/following
+		 FollowerID of dbloete = 5
+Userinfo: glebd
+		User: glebd not in DB... inserting
+Userinfo: ccgus
+		User: ccgus not in DB... inserting
+Userinfo: erica
+		User: erica not in DB... inserting
+Userinfo: carpeaqua
+		User: carpeaqua not in DB... inserting
+Userinfo: robrix
+		User: robrix not in DB... inserting
+		 FollowerID of chucker = 2
+Userinfo: rentzsch
+		User: rentzsch not in DB... inserting
+Userinfo: atebits
+		User: atebits not in DB... inserting
+Userinfo: sdegutis
+		User: sdegutis not in DB... inserting
+Userinfo: ddfreyne
+		User: ddfreyne not in DB... inserting
+Userinfo: omnigroup
+		User: omnigroup not in DB... inserting
+Userinfo: stevedekorte
+		User: stevedekorte not in DB... inserting
+Userinfo: cobber
+		User: cobber not in DB... inserting
+Userinfo: alleus
+		User: alleus not in DB... inserting
+Userinfo: facebook
+		User: facebook not in DB... inserting
+Userinfo: enormego
+		User: enormego not in DB... inserting
+		 FollowerID of tarasis = 10
+		 FollowerID of jjungnickel = 11
+Userinfo: aral
+		User: aral not in DB... inserting
+Userinfo: lksoft
+		User: lksoft not in DB... inserting
+		 FollowerID of pburleson = 18
+Userinfo: MrRooni
+		User: MrRooni not in DB... inserting
+Userinfo: 0xced
+		User: 0xced not in DB... inserting
+Userinfo: sburlot
+		User: sburlot not in DB... inserting
+		 FollowerID of perlmunger = 14
+		 FollowerID of Perspx = 12
+Userinfo: mattgemmell
+		User: mattgemmell not in DB... inserting
+Userinfo: fspeirs
+		User: fspeirs not in DB... inserting
+		 FollowerID of zykloid = 22
+/api/v2/yaml/user/show/phbaer/followers
+Userinfo: phbaer
+		User: phbaer not in DB... inserting
+/api/v2/yaml/user/show/phbaer/following
+/api/v2/yaml/user/show/stffn/followers
+
+	Have to wait for 60 seconds
