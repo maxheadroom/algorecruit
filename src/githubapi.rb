@@ -218,20 +218,20 @@ class GithubAPI
  def add_user_to_db(user,dbcon)
    
    ret = false
-   tries = 3
+   tries = 60
    
    while tries > 0 do
      userinfo = get_userinfo(user)
-     puts "UserInfo for #{user}: \t#{userinfo}\n"
+     puts "UserInfo for #{user}: \t#{userinfo} "
      if userinfo == false then
-       puts("Try #{tries}: User #{user} does not exist on github.com\n")
-       sleep 40
+       puts(".")
+       sleep 1
        tries = tries - 1
      else
        break
      end
    end
-   
+   puts "\n"
    if tries < 1 then
      puts("User #{user} finally not found in GitHub after 3 tries")
      return false
