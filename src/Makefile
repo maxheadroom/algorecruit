@@ -40,4 +40,5 @@ sanfrancisco:
 test:
 	export CLASSPATH=`echo lib/*jar | tr ' ' :`:.
 	export PATH=$PATH:/Users/fzurell/jruby-1.5.0.RC3/bin
+	ruby dump_db2file.rb
 	jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null
