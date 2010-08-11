@@ -36,3 +36,8 @@ sanfrancisco:
 	@$(MYSQLOPTS) < san_francisco.sql 
 	@echo "SELECT count(*) AS Users from github_users;" | $(MYSQLOPTS)
 	@echo "SELECT count(*) AS Edges from github_edges;" | $(MYSQLOPTS)
+
+test:
+	export CLASSPATH=`echo lib/*jar | tr ' ' :`:.
+	export PATH=$PATH:/Users/fzurell/jruby-1.5.0.RC3/bin
+	jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null; jruby rank.rb > /dev/null
