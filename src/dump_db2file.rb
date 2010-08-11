@@ -11,6 +11,10 @@ require 'objectstash'
 $stdout.sync = true
 config = YAML.load_file("authconfig.yml")
 github = GithubAPI.new(config["user_name"], config["token"])
+dbhost = config["dbhost"]
+dbuser = config["dbuser"]
+dbpass = config["dbpass"]
+dbname = config["dbname"]
 
 # empty hash to hold the graph
 graph = {}
@@ -18,7 +22,7 @@ graph = {}
 ####### mysql #########
 begin
      # connect to the MySQL server
-     dbh = Mysql.real_connect("localhost", "ruby", "ruby", "algorecruit")
+     dbh = Mysql.real_connect(dbhost, dbuser, dbpass, dbname)
      
      res = dbh.query("SELECT * FROM github_users")
      
@@ -30,9 +34,9 @@ begin
           followers = github.get_followers_from_db(uid,dbh)
           graph[user] = []
           
-          printf("Add user %s\n", user)
+          # printf("Add user %s\n", user)
           followers.each do |f|
-            printf("\tAdd Follower: %s\n", f)
+            # printf("\tAdd Follower: %s\n", f)
             graph[user] << f
           end
           
