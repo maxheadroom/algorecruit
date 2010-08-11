@@ -220,9 +220,9 @@ class GithubAPI
    ret = false
    tries = 60
    
+   puts "UserInfo for #{user}: "
    while tries > 0 do
      userinfo = get_userinfo(user)
-     puts "UserInfo for #{user}: \t#{userinfo} "
      if userinfo == false then
        puts(".")
        sleep 1
@@ -233,7 +233,7 @@ class GithubAPI
    end
    puts "\n"
    if tries < 1 then
-     puts("User #{user} finally not found in GitHub after 3 tries")
+     puts("User #{user} finally not found in GitHub after 3 tries\n")
      return false
    end
      

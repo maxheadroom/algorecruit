@@ -10,6 +10,10 @@ require 'githubapi'
 $stdout.sync = true
 puts "Getting URLs\n"
 config = YAML.load_file("authconfig.yml")
+dbhost = config["dbhost"]
+dbuser = config["dbuser"]
+dbpass = config["dbpass"]
+dbname = config["dbname"]
 BOSSMan.application_id = config["token"]
 github = GithubAPI.new(config["user_name"], config["token"])
 offset = 0
@@ -51,7 +55,7 @@ printf("Number of results: %s \n",  users.size)
 ####### mysql #########
 begin
      # connect to the MySQL server
-     dbh = Mysql.real_connect("localhost", "ruby", "ruby", "algorecruit")
+     dbh = Mysql.real_connect(dbhost, dbuser, dbpass, dbname)
      # get server version string and display it
      puts "Server version: " + dbh.get_server_info + "\n"
 
