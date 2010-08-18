@@ -1,0 +1,37 @@
+Printing BetweenessCentrality
+Start BC: 1282053570727
+Printing HITS authority + hub
+Start HITS: 1282053570763
+User: govinda: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: activescaffold: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: mediastuttgart: BC = 0.00 + Authority = 0.00280 + Hub = 0.03483
+User: sproutit: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: rubaidh: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: voitto: BC = 0.00 + Authority = 0.00280 + Hub = 0.03179
+User: kore: BC = 0.00 + Authority = 0.02519 + Hub = 0.02847
+User: softlayer: BC = 0.00 + Authority = 0.02519 + Hub = 0.02847
+User: cpetschnig: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: xing: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: anrichter: BC = 0.00 + Authority = 0.00280 + Hub = 0.03179
+User: xrstf: BC = 0.00 + Authority = 0.02300 + Hub = 0.02847
+User: treshugart: BC = 0.00 + Authority = 0.00280 + Hub = 0.03483
+User: sebastianbergmann: BC = 0.00 + Authority = 0.02519 + Hub = 0.02847
+User: recess: BC = 0.00 + Authority = 0.02519 + Hub = 0.02847
+User: seancribbs: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: kiebel: BC = 0.00 + Authority = 0.01202 + Hub = 0.02847
+User: fjl: BC = 0.00 + Authority = 0.28767 + Hub = 0.03850
+User: pilu: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: woodworker: BC = 0.00 + Authority = 0.00280 + Hub = 0.07720
+User: KrisJordan: BC = 0.00 + Authority = 0.02519 + Hub = 0.02847
+User: palm: BC = 0.00 + Authority = 0.02519 + Hub = 0.02847
+User: binarylogic: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: sagarsunkle: BC = 0.00 + Authority = 0.00280 + Hub = 0.03179
+User: pluginaweek: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: xauth: BC = 0.00 + Authority = 0.02519 + Hub = 0.02847
+User: webiest: BC = 0.00 + Authority = 0.00280 + Hub = 0.03850
+User: kotp: BC = 0.00 + Authority = 0.01202 + Hub = 0.02847
+User: kekrops: BC = 0.00 + Authority = 0.01202 + Hub = 0.02847
+User: alltach: BC = 0.00 + Authority = 0.28767 + Hub = 0.02847
+User: skypher: BC = 0.00 + Authority = 0.00280 + Hub = 0.03850
+User: sebastian-guenther: BC = 1.00 + Authority = 0.01202 + Hub = 0.03179
+User: scivi: BC = 35.00 + Authority = 0.03630 + Hub = 0.98249
