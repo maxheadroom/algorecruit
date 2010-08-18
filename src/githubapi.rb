@@ -39,7 +39,21 @@ class GithubAPI
       http.request(req)
     end
     
-    userinfo = JSON.parse(response.body)['user']
+    userinfo = []
+    sleeptime = 30
+    case response 
+       when Net::HTTPSuccess
+          userinfo = JSON.parse(response.body)['user']       
+       when Net::HTTPForbidden
+         puts "\n\tHave to wait for #{sleeptime} seconds\n"
+          sleep sleeptime
+          redo
+       else
+           puts "non-200: #{user} + #{response}"
+    end
+    
+    
+    
     
     if  userinfo == nil then
       return false
@@ -182,6 +196,16 @@ class GithubAPI
    
  end
  
+ def add_bcscore_2db(user, bcscore, dbcon) 
+    res = dbcon.query("UPDATE github_users SET bc_score = #{bcscore} WHERE username = '#{user}'")
+ end
+
+ def add_HITS_2db(user, authority, hub, dbcon) 
+    res = dbcon.query("UPDATE github_users SET authority = #{authority}, hub = #{hub} WHERE username = '#{user}'")
+ end
+ 
+ 
+ 
  def get_followers_from_db(uid,dbh)
    followers = []
    res = dbh.query("select t2.username as username from github_edges as t1 LEFT JOIN github_users as t2 ON t1.target=t2.id WHERE t1.source='#{uid}';")
@@ -215,40 +239,24 @@ class GithubAPI
    
  end
  
+ # accepts an Object of type GitHubUser
  def add_user_to_db(user,dbcon)
    
    ret = false
    tries = 60
-   
-   puts "UserInfo for #{user}: "
-   while tries > 0 do
-     userinfo = get_userinfo(user)
-     if userinfo == false then
-       puts(".")
-       sleep 1
-       tries = tries - 1
-     else
-       break
-     end
-   end
-   puts "\n"
-   if tries < 1 then
-     puts("User #{user} finally not found in GitHub after 3 tries\n")
-     return false
-   end
+    
+   if !is_user_in_db(user.username, dbcon) then
      
-   if !is_user_in_db(user, dbcon) then
-     
-          printf("\t\tUser: %s not in DB... inserting\n", user)
-          dbcon.query("INSERT INTO github_users (username,label) VALUES('#{user}', '#{user}')")
-          res = dbcon.query("SELECT id,username FROM github_users WHERE username = '#{user}'")
+          printf("\t\tUser: %s not in DB... inserting\n", user.username)
+          dbcon.query("INSERT INTO github_users (username,label,location) VALUES('#{user.username}', '#{user.username}', '#{user.location}')")
+          res = dbcon.query("SELECT id,username FROM github_users WHERE username = '#{user.username}'")
 
            res.each_hash do |row|
                ret = row["id"]
            end
            res.free
    else
-          printf("\t\tUser: %s already in DB. Not inserting\n", user)
+          printf("\t\tUser: %s already in DB. Not inserting\n", user.username)
           ret = false
    end
    
@@ -283,10 +291,12 @@ class GitHubUser
   def initialize(user, githubapi)
     @username = user
     @repos = Hash.new
-    @followers = githubapi.get_followers(@username)['users']
-    @followings = githubapi.get_followings(@username)['users']
+    userinfo = githubapi.get_userinfo(@username)
+    @followers = githubapi.get_followers(@username)
+    @followings = githubapi.get_followings(@username)
+    @location = userinfo['location']
     
-    githubapi.get_public_repos(user).each { |rname|
+    githubapi.get_public_repos(@username).each { |rname|
       repo = GitHubRepo.new(@username, rname, githubapi)
       @repos[rname] = repo
     }

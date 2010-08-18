@@ -1,5 +1,7 @@
 set title "Node vs. BC calc time"
 set xlabel "Anzahl der Knoten"
 set ylabel "Rechenzeit in Sek."
+set yrange [0:10000]
+set y2range [0:1]
 plot "ranking.dat" using 2:4 title "BC", \
 "" using 2:5 title "HITS"

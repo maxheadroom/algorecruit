@@ -37,6 +37,42 @@ public class Ranker {
 				
         HashMap<String,Double> result = new HashMap<String,Double>();
         for(String v : g.getVertices()) {
+			Double rank = ranker.getVertexRankScore(v);
+			Double normalized = (Double) rank/((g.getEdgeCount() - 1)*(g.getEdgeCount() - 2)/2) ;
+            result.put(v,normalized);
+			// System.out.println("Score for " + v + " = " + ranker.getVertexRankScore(v)); 
+        }
+        return result;
+	
+        
+    }
+
+
+	public Map<String, Double> BCRandom(Map network) throws Exception {
+        Graph<String, Integer> g = new DirectedSparseGraph<String, Integer> ();
+        int count = 0;
+        for(Object e : network.entrySet()) {
+            Map.Entry entry = (Map.Entry)e;
+            String user = (String)entry.getKey();
+            List follows = (List)entry.getValue();
+            for(Object fuser : follows) {
+                g.addEdge(count,user,(String)fuser,EdgeType.DIRECTED);
+                count++;
+            }
+        }
+		long jetzt = System.currentTimeMillis();
+		System.out.println ("Start BC: " + System.currentTimeMillis() );
+			edu.uci.ics.jung.algorithms.importance.BetweennessCentrality<String, Integer> ranker = new edu.uci.ics.jung.algorithms.importance.BetweennessCentrality<String, Integer>(g);
+			ranker.step();
+			// System.out.println("RankScoreKey: " + ranker.getRankScoreKey());
+			ranker.setMaximumIterations(100);
+			ranker.setRemoveRankScoresOnFinalize(false);
+			ranker.evaluate();
+			
+		System.err.println ("END BC: " + ((System.currentTimeMillis() - jetzt)/1000) );
+				
+        HashMap<String,Double> result = new HashMap<String,Double>();
+        for(String v : g.getVertices()) {
             result.put(v,ranker.getVertexRankScore(v));
 			// System.out.println("Score for " + v + " = " + ranker.getVertexRankScore(v)); 
         }

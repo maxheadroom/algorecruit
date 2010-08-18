@@ -63,8 +63,11 @@ begin
 
      users.each{|u|
        uid = nil
-       followers = github.get_followers(u)
-       followings = github.get_followings(u)
+       githubuser = GitHubUser.new(u,github)
+       followers = githubuser.followers
+       followings = githubuser.followings
+       location = githubuser.location
+       
        
        
        if github.is_user_in_db(u,dbh) then
@@ -72,46 +75,52 @@ begin
          uid = github.get_id_from_user(u,dbh)
        else
          puts "Adding new user to DB: #{u}"
-         uid = github.add_user_to_db(u, dbh)
+         uid = github.add_user_to_db(githubuser, dbh)
        end
        
        
        
        # process followers
        if followers != nil then
-         followers.each{|f|
-          
-          if github.is_user_in_db(f , dbh) then
-            if fid = github.get_id_from_user(f, dbh) then
-              nil
-            else
-              puts "SEVERE ERROR IN DB with User: #{f}"
-              break 
-            end
-          else
-            fid = github.add_user_to_db(f, dbh)
-          end
-          
-          github.add_edge(fid, uid, dbh)
-          
-          }
-         end
+            followers.each{|f|
+                  fid = nil
+                  follower = GitHubUser.new(f,github)
+                  
+                  if github.is_user_in_db(follower.username, dbh) then
+                        if fid = github.get_id_from_user(follower.username, dbh) then
+                          nil
+                        else
+                          puts "SEVERE ERROR IN DB with User: #{f}"
+                          break 
+                        end
+                  else
+                        fid = github.add_user_to_db(follower, dbh)
+                  end
+                  
+                  puts "Add Follower #{follower.username} -> #{u}\n"
+                  github.add_edge(fid, uid, dbh)
+             
+             }
+        end
        
        # process followings
        if followings != nil then
+              fid = nil
+              puts "Followings for #{u}: #{followings}\n"
               followings.each{|f|
-              
-                  if github.is_user_in_db(f , dbh) then
-                    if fid = github.get_id_from_user(f, dbh) then
+                  following = GitHubUser.new(f,github)
+                  if github.is_user_in_db(following.username , dbh) then
+                    if fid = github.get_id_from_user(following.username, dbh) then
                       nil
                     else
                       puts "SEVERE ERROR IN DB with User: #{f}"
                       break
                     end
                   else
-                    fid = github.add_user_to_db(f, dbh)
+                    fid = github.add_user_to_db(following, dbh)
                   end
                   
+                    puts "Add Following #{u} -> #{following.username}\n"
                     github.add_edge(uid, fid, dbh)
                   
                   }
