@@ -74,6 +74,7 @@ begin
 	end       
        
        
+       
        if github.is_user_in_db(u,dbh) then
          puts "User #{u} already in the DB, no action needed\n"
          uid = github.get_id_from_user(u,dbh)
