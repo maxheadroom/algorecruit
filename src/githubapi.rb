@@ -51,14 +51,14 @@ class GithubAPI
              puts "\n\tHave to wait for a second: #{retries}"
               sleep 1
               retries = retries - 1
-              redo
+              next
            else
                puts "non-200: #{user} + #{response}"
         end #case
     end #while
     
     if retries = 0 then
-      puts "ERROR: Couldn't fetch userinfo due to Network errors\n"
+      puts "ERROR: Couldn't fetch userinfo for #{user} due to Network errors\n"
     end
     
     if  userinfo == nil then
@@ -203,7 +203,9 @@ class GithubAPI
  end
  
  def add_bcscore_2db(user, bcscore, dbcon) 
-    res = dbcon.query("UPDATE github_users SET bc_score = #{bcscore} WHERE username = '#{user}'")
+    querystring = "UPDATE github_users SET bc_score = #{bcscore} WHERE username = '#{user}'"
+   
+    res = dbcon.query(escape_string(querystring))
  end
 
  def add_HITS_2db(user, authority, hub, dbcon) 
@@ -250,11 +252,12 @@ class GithubAPI
    
    ret = false
    tries = 60
+   querystring = "INSERT INTO github_users (username,label,location) VALUES('#{user.username}', '#{user.username}', '#{user.location}')"
     
    if !is_user_in_db(user.username, dbcon) then
      
           printf("\t\tUser: %s not in DB... inserting\n", user.username)
-          dbcon.query("INSERT INTO github_users (username,label,location) VALUES('#{user.username}', '#{user.username}', '#{user.location}')")
+          dbcon.query(escape_string(querystring))
           res = dbcon.query("SELECT id,username FROM github_users WHERE username = '#{user.username}'")
 
            res.each_hash do |row|
