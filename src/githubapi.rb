@@ -57,7 +57,7 @@ class GithubAPI
         end #case
     end #while
     
-    if retries = 0 then
+    if retries == 0 then
       puts "ERROR: Couldn't fetch userinfo for #{user} due to Network errors\n"
     end
     
@@ -252,12 +252,15 @@ class GithubAPI
    
    ret = false
    tries = 60
-   querystring = "INSERT INTO github_users (username,label,location) VALUES('#{user.username}', '#{user.username}', '#{user.location}')"
+
+   
+   sth = dbcon.prepare("INSERT INTO github_users (username,label,location) VALUES(?, ?, ?)")
     
    if !is_user_in_db(user.username, dbcon) then
      
           printf("\t\tUser: %s not in DB... inserting\n", user.username)
-          dbcon.query(escape_string(querystring))
+          sth.execute(user.username, user.username, user.location)
+
           res = dbcon.query("SELECT id,username FROM github_users WHERE username = '#{user.username}'")
 
            res.each_hash do |row|
