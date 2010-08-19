@@ -16,6 +16,8 @@ class GithubAPI
   
   BASE_URL = "http://github.com/api/v2/"
   BASE_FORMAT = "json"
+  PROXY_HOST=""
+  PROXY_PORT=""
   
   
   
@@ -30,7 +32,7 @@ class GithubAPI
     # /user/show/:username
     url = BASE_URL + BASE_FORMAT + "/user/show/#{user}"
     uri = URI.parse url
-    server = Net::HTTP.new(uri.host, uri.port)
+    server = Net::HTTP::Proxy(PROXY_HOST, PROXY_PORT).new(uri.host, uri.port)
     # server.use_ssl = (uri.scheme == 'https')
     # server.verify_mode = OpenSSL::SSL::VERIFY_NONE if server.use_ssl?
     userinfo = []
@@ -49,7 +51,7 @@ class GithubAPI
               break      
            when Net::HTTPForbidden
              puts "\n\tHave to wait for a second: #{retries}"
-              sleep 1
+              sleep 24
               retries = retries - 1
               next
            else
@@ -75,7 +77,8 @@ class GithubAPI
     # /user/show/:user/following
     url = BASE_URL + BASE_FORMAT + "/user/show/#{user}/following"
     uri = URI.parse url
-    server = Net::HTTP.new(uri.host, uri.port)
+    # server = Net::HTTP.new(uri.host, uri.port)
+    server = Net::HTTP::Proxy(PROXY_HOST, PROXY_PORT).new(uri.host, uri.port)
     server.use_ssl = (uri.scheme == 'https')
     server.verify_mode = OpenSSL::SSL::VERIFY_NONE if server.use_ssl?
     response = server.start do |http|
@@ -91,7 +94,8 @@ class GithubAPI
     # /user/show/:user/followers
     url = BASE_URL + BASE_FORMAT + "/user/show/#{user}/followers"
     uri = URI.parse url
-    server = Net::HTTP.new(uri.host, uri.port)
+    #server = Net::HTTP.new(uri.host, uri.port)
+    server = Net::HTTP::Proxy(PROXY_HOST, PROXY_PORT).new(uri.host, uri.port)
     server.use_ssl = (uri.scheme == 'https')
     server.verify_mode = OpenSSL::SSL::VERIFY_NONE if server.use_ssl?
     response = server.start do |http|
