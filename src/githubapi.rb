@@ -33,27 +33,33 @@ class GithubAPI
     server = Net::HTTP.new(uri.host, uri.port)
     # server.use_ssl = (uri.scheme == 'https')
     # server.verify_mode = OpenSSL::SSL::VERIFY_NONE if server.use_ssl?
-    response = server.start do |http|
-      req = Net::HTTP::Get.new(uri.path)
-      # req.form_data = data.merge(auth)
-      http.request(req)
-    end
-    
     userinfo = []
-    sleeptime = 30
-    case response 
-       when Net::HTTPSuccess
-          userinfo = JSON.parse(response.body)['user']       
-       when Net::HTTPForbidden
-         puts "\n\tHave to wait for #{sleeptime} seconds\n"
-          sleep sleeptime
-          redo
-       else
-           puts "non-200: #{user} + #{response}"
+    
+    retries = 60
+    while retries > 0 do 
+        response = server.start do |http|
+          req = Net::HTTP::Get.new(uri.path)
+          # req.form_data = data.merge(auth)
+          http.request(req)
+        end
+        
+        case response 
+           when Net::HTTPSuccess
+              userinfo = JSON.parse(response.body)['user'] 
+              break      
+           when Net::HTTPForbidden
+             puts "\n\tHave to wait for a second: #{retries}"
+              sleep 1
+              retries = retries - 1
+              redo
+           else
+               puts "non-200: #{user} + #{response}"
+        end #case
+    end #while
+    
+    if retries = 0 then
+      puts "ERROR: Couldn't fetch userinfo due to Network errors\n"
     end
-    
-    
-    
     
     if  userinfo == nil then
       return false
@@ -296,10 +302,10 @@ class GitHubUser
     @followings = githubapi.get_followings(@username)
     @location = userinfo['location']
     
-    githubapi.get_public_repos(@username).each { |rname|
-      repo = GitHubRepo.new(@username, rname, githubapi)
-      @repos[rname] = repo
-    }
+    # githubapi.get_public_repos(@username).each { |rname|
+    #  repo = GitHubRepo.new(@username, rname, githubapi)
+    #  @repos[rname] = repo
+    # }
   end
   
   
