@@ -35,7 +35,7 @@ class GithubAPI
     server = Net::HTTP::Proxy(PROXY_HOST, PROXY_PORT).new(uri.host, uri.port)
     # server.use_ssl = (uri.scheme == 'https')
     # server.verify_mode = OpenSSL::SSL::VERIFY_NONE if server.use_ssl?
-    userinfo = []
+    userinfo = nil
     
     retries = 60
     while retries > 0 do 
@@ -66,11 +66,7 @@ class GithubAPI
       puts "ERROR: Couldn't fetch userinfo for #{user} due to Network errors\n"
     end
     
-    if  userinfo == nil then
-      return false
-    else
       return userinfo
-    end
     
   end
   
@@ -308,17 +304,16 @@ class GitHubUser
   attr_accessor :username, :repos, :followers, :followings, :location
   
   def initialize(user, githubapi)
-    @username = user
+    userinfo = githubapi.get_userinfo(user)
+
+	# puts "Userinfo: #{userinfo} \n"
+	if userinfo != nil then
+		@username = userinfo['login']
+    		@followers = githubapi.get_followers(@username)
+    		@followings = githubapi.get_followings(@username)
+    		@location = userinfo['location']
+	end
     
-    userinfo = githubapi.get_userinfo(@username)
-    @followers = githubapi.get_followers(@username)
-    @followings = githubapi.get_followings(@username)
-    @location = userinfo['location']
-    
-    # githubapi.get_public_repos(@username).each { |rname|
-    #  repo = GitHubRepo.new(@username, rname, githubapi)
-    #  @repos[rname] = repo
-    # }
   end
   
   

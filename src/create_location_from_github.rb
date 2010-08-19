@@ -67,7 +67,11 @@ begin
        followers = githubuser.followers
        followings = githubuser.followings
        location = githubuser.location
-       
+
+	if githubuser.username == nil then
+		puts "Skipping to next user because #{u} is not found on github.com\n"
+		next
+	end       
        
        
        if github.is_user_in_db(u,dbh) then
