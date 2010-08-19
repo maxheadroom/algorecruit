@@ -16,8 +16,8 @@ class GithubAPI
   
   BASE_URL = "http://github.com/api/v2/"
   BASE_FORMAT = "json"
-  PROXY_HOST=""
-  PROXY_PORT=""
+  PROXY_HOST=nil
+  PROXY_PORT=nil
   
   
   
@@ -54,6 +54,9 @@ class GithubAPI
               sleep 24
               retries = retries - 1
               next
+           when Net::HTTPNotFound
+             puts "ERROR: User #{user} not found on github.com\n"
+             break
            else
                puts "non-200: #{user} + #{response}"
         end #case
@@ -306,7 +309,7 @@ class GitHubUser
   
   def initialize(user, githubapi)
     @username = user
-    @repos = Hash.new
+    
     userinfo = githubapi.get_userinfo(@username)
     @followers = githubapi.get_followers(@username)
     @followings = githubapi.get_followings(@username)
