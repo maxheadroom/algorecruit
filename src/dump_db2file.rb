@@ -14,7 +14,8 @@ github = GithubAPI.new(config["user_name"], config["token"])
 dbhost = config["dbhost"]
 dbuser = config["dbuser"]
 dbpass = config["dbpass"]
-dbname = config["dbname"]
+# we want the DB to be taken from cmd argument
+dbname = ARGV[0]
 
 # empty hash to hold the graph
 graph = {}

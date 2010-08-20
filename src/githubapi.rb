@@ -293,6 +293,21 @@ class GithubAPI
        return false
      end
    end
+   
+   
+   
+   def add_scores2db(user,bc,authority,hub,dbcon)
+     
+     
+     sth = dbcon.prepare("UPDATE github_users SET BC = ?,AUTH=?,HUB=? WHERE username = ?")
+     result = sth.execute(bc, authority, hub, user)
+     
+     puts "Result: #{result}" 
+      
+     
+    end
+   
+   
   #end class
 end
 
