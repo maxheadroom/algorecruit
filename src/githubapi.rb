@@ -16,8 +16,8 @@ class GithubAPI
   
   BASE_URL = "http://github.com/api/v2/"
   BASE_FORMAT = "json"
-  PROXY_HOST=nil
-  PROXY_PORT=nil
+  PROXY_HOST="anonymous.explain-it.org"
+  PROXY_PORT="8888"
   
   
   
@@ -51,7 +51,7 @@ class GithubAPI
               break      
            when Net::HTTPForbidden
              puts "\n\tHave to wait for a second: #{retries}"
-              sleep 24
+              sleep 1
               retries = retries - 1
               next
            when Net::HTTPNotFound
