@@ -219,7 +219,7 @@ class GithubAPI
  
  def get_followers_from_db(uid,dbh)
    followers = []
-   res = dbh.query("select t2.username as username from github_edges as t1 LEFT JOIN github_users as t2 ON t1.target=t2.id WHERE t1.source='#{uid}';")
+   res = dbh.query("select t2.username as username from github_edges as t1 LEFT JOIN github_users as t2 ON t1.source=t2.id WHERE t1.target='#{uid}';")
    res.each_hash{|r|
      followers << r["username"]
      
@@ -293,6 +293,21 @@ class GithubAPI
        return false
      end
    end
+   
+   
+   
+   def add_scores2db(user,bc,authority,hub,dbcon)
+     
+     
+     sth = dbcon.prepare("UPDATE github_users SET BC = ?,AUTH=?,HUB=? WHERE username = ?")
+     result = sth.execute(bc, authority, hub, user)
+     
+     puts "Result: #{result}" 
+      
+     
+    end
+   
+   
   #end class
 end
 

@@ -1,7 +1,37 @@
-set title "Node vs. BC calc time"
-set xlabel "Anzahl der Knoten"
-set ylabel "Rechenzeit in Sek."
-set yrange [0:10000]
-set y2range [0:1]
-plot "ranking.dat" using 2:4 title "BC", \
-"" using 2:5 title "HITS"
+# set term aifm
+set term postscript enhanced color
+# set term png
+set output "berlin_3d_plot.eps"
+set key left outside
+set title "HITS Authority vs. HITS Hub vs. Betweenness Centrality\nBerlin"
+set zlabel "Betweenness Centrality"
+set xlabel "HITS Authority"
+set ylabel "HITS Hub"
+#set logscale x
+#set logscale y
+#set logscale z
+splot "berlin_full_graphing_3d" using 3:4:2 notitle
+
+
+
+set output "berlin_2d_plot.eps"
+set title "Betweenness Centrality vs. HITS Authority / HITS Hub\nBerlin"
+#set logscale x
+#set logscale y
+#set logscale y2
+# set xrange [0:0.01260]
+# set y1range [0:1]
+# set y2range [0:1]
+set ylabel "HITS Authority"
+set y2label "HITS Hub"
+set xlabel "Betweenness Centrality"
+plot "berlin_full_graphing_3d" using 2:3 axis x1y1 title "authority", \
+ "" using 2:4 axis x1y2 title "hub"
+
+set output "berlin_2d_plot_authhub.eps"
+set title "HITS Authority / HITS Hub\nBerlin"
+# set logscale x
+# set logscale y
+set xlabel "HITS Authority"
+set ylabel "HITS Hub"
+plot "berlin_full_graphing_3d" using 3:4 axis x1y1 title "HITS"
