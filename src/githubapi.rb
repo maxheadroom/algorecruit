@@ -13,11 +13,13 @@ require 'rgl/adjacency'
 
 # this class implements the Github API
 class GithubAPI
+
+  config = YAML.load_file("authconfig.yml")
   
   BASE_URL = "http://github.com/api/v2/"
   BASE_FORMAT = "json"
-  PROXY_HOST=nil
-  PROXY_PORT=nil
+  PROXY_HOST=config["proxy_host"]
+  PROXY_PORT=config["proxy_port"]
   
   
   
@@ -51,7 +53,7 @@ class GithubAPI
               break      
            when Net::HTTPForbidden
              puts "\n\tHave to wait for a second: #{retries}"
-              sleep 24
+              sleep 1
               retries = retries - 1
               next
            when Net::HTTPNotFound
