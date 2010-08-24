@@ -13,11 +13,13 @@ require 'rgl/adjacency'
 
 # this class implements the Github API
 class GithubAPI
+
+  config = YAML.load_file("authconfig.yml")
   
   BASE_URL = "http://github.com/api/v2/"
   BASE_FORMAT = "json"
-  PROXY_HOST="anonymous.explain-it.org"
-  PROXY_PORT="8888"
+  PROXY_HOST=config["proxy_host"]
+  PROXY_PORT=config["proxy_port"]
   
   
   
