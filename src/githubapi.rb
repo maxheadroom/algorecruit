@@ -107,84 +107,9 @@ class GithubAPI
     JSON.parse(response.body)['users']
   end
 
-  # this method grasps the languages used in a repository
-  # the information is exposed via the Web interface only
-  def get_language_for_repo (repo, user)
-    # XPath of the Language table
-    # //div[@id='languages']/div[@class='popular compact']/table/tbody/tr[1]/td[1]/a
-
-    # Get a Nokogiri::HTML:Document for the page we’re interested in...
-
-    doc = Nokogiri::HTML(open("http://github.com/#{user}/#{repo}/graphs/languages"))
-
-    # Do funky things with it using Nokogiri::XML::Node methods...
-
-    #  puts doc
-    #  puts doc.xpath('//div[@id=\'languages\']/div[@class=\'popular compact\']/table/tr')
-    ####
-    # Search for nodes by xpath 
-
-    langs = Array.new
-
-    doc.xpath('//div[@id=\'languages\']/div[@class=\'popular compact\']/table/tr').each do |tbody|
-      # puts tbody.xpath('./td[1]/a').text()
-      langs << tbody.xpath('./td[1]/a').text()
-      # puts "----------------------\n"
-      # puts tbody.xpath('//tr/td[1]/a/text()')
-    end
-    langs
-  end
   
   
-  # get the repositories of a user
-  def get_public_repos (user)
-    # //div[@id='main']/div[2][@class='site']/ul[@class='repositories']/li[1][@class='simple public fork']/h3/a
-    doc = Nokogiri::HTML(open("http://github.com/#{user}/repositories"))
-    
-
-    repos = Array.new
-
-    doc.xpath('//div[@id=\'main\']/div[2][@class=\'site\']/ul[@class=\'repositories\']/li').each do |tbody|
-      # puts tbody.xpath('./h3/a').text()
-      repos << tbody.xpath('./h3/a').text()
-
-      # langs[i++] = tbody.xpath('./[@class=\'simple public fork\']/h3/a').text()
-      # puts "----------------------\n"
-      # puts tbody.xpath('//tr/td[1]/a/text()')
-    end
-    repos
-    
-  end
-  
-  # extend the graph with the users in
-  def add_followers_to_graph( user, list, dgraph )
-    
-    list.each { |k|
-      # add the following to the graph
-      dgraph.add_vertex(k)
-      # add the edge to the graph
-      dgraph.add_edge(k, user)
-
-      # printf("Following: %s \n", k)
-      }
-      dgraph
-  end
-
-  # extend the graph with the users in
-  def add_followings_to_graph( user, list, dgraph )
-    
-    list.each { |k|
-      # add the following to the graph
-      dgraph.add_vertex(k)
-      # add the edge to the graph
-      dgraph.add_edge(user, k)
-
-      # printf("Following: %s \n", k)
-      }
-      dgraph
-  end
-
- def is_user_in_db(user, dbcon)
+  def is_user_in_db(user, dbcon)
    ret = nil
    res = dbcon.query("SELECT id,username FROM github_users WHERE username = '#{user}'")
    
@@ -206,17 +131,6 @@ class GithubAPI
    ret
    
  end
- 
- def add_bcscore_2db(user, bcscore, dbcon) 
-    querystring = "UPDATE github_users SET bc_score = #{bcscore} WHERE username = '#{user}'"
-   
-    res = dbcon.query(escape_string(querystring))
- end
-
- def add_HITS_2db(user, authority, hub, dbcon) 
-    res = dbcon.query("UPDATE github_users SET authority = #{authority}, hub = #{hub} WHERE username = '#{user}'")
- end
- 
  
  
  def get_followers_from_db(uid,dbh)
@@ -336,10 +250,3 @@ class GitHubUser
   
 end
 
-class GitHubRepo
-  attr_accessor :repo_name, :languages
-  def initialize(user, repo, githubapi)
-    @repo_name = repo
-    @languages = githubapi.get_language_for_repo(repo, user)
-  end
-end
