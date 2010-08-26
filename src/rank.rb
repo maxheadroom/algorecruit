@@ -2,16 +2,14 @@ require 'rubygems'
 require 'net/http'
 require 'objectstash'
 
+    # load serialized Graph from file
       graph = ObjectStash.load 'theory_of_everything.stash'
       
       scoring = {}
       
       puts("Printing BetweenessCentrality\n")
       result = Java::Ranker.new.rank(graph)
-      
-      
-      
-           
+       
            
       result.each{ |u|
         user = u[0]
@@ -21,18 +19,6 @@ require 'objectstash'
         scoring["#{user}"]["bc"] =  value
         
       }
-      #for user in result.sort_by { |user,score| score }
-      #    
-      #    puts "\t#{user[0]} \t = \t#{user[1]}"
-      #end
-      
-      
-      
-      #puts("Printing MarkovRank\n")
-      #result = Java::Ranker.new.markovRank(graph)
-      #for user in result.sort_by { |user,score| score }
-      #    puts "\t#{user[0]} \t = \t#{user[1]}"
-      #end
       
       puts("Printing HITS authority + hub\n")
       result = Java::Ranker.new.HITSRank(graph)
@@ -52,13 +38,7 @@ require 'objectstash'
         scoring["#{user}"]["hub"] =  value
       }
           
-      #  for user in authority.sort_by { |user,score| score }
-      #      puts "\t#{user[0]} \t = \t#{user[1]} Authority\n"
-      #  end
-      #  for user in hubs.sort_by { |user,score| score }
-      #      puts "\t#{user[0]} \t = \t#{user[1]} Hub\n"
-      #  end
-        
+            
       
         puts format("Header: username & BC & Authority & Hub")
         scoring.sort_by{|user,scores| scores["bc"]}.each {|user, scores| 
@@ -66,6 +46,6 @@ require 'objectstash'
           puts format("User: %s & %.5f & %.5f & %.5f", user, scores["bc"], scores["authority"], scores["hub"] )
           }
           
-# Stash it
+# serialize the Hash with the scoring and write to file
 ObjectStash.store scoring, './scoring.stash'
           
