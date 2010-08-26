@@ -1,21 +1,21 @@
 # set term aifm
 set term postscript enhanced color
 # set term png
-set output "berlin_3d_plot.eps"
+set output "city_3d_plot.eps"
 set key left outside
-set title "HITS Authority vs. HITS Hub vs. Betweenness Centrality\nBerlin"
+set title "HITS Authority vs. HITS Hub vs. Betweenness Centrality\nCity"
 set zlabel "Betweenness Centrality"
 set xlabel "HITS Authority"
 set ylabel "HITS Hub"
 #set logscale x
 #set logscale y
 #set logscale z
-splot "berlin_full_graphing_3d" using 3:4:2 notitle
+splot "city_full_ranking_graph" using 3:4:2 notitle
 
 
 
-set output "berlin_2d_plot.eps"
-set title "Betweenness Centrality vs. HITS Authority / HITS Hub\nBerlin"
+set output "city_2d_plot.eps"
+set title "Betweenness Centrality vs. HITS Authority / HITS Hub\nCity"
 #set logscale x
 #set logscale y
 #set logscale y2
@@ -24,14 +24,16 @@ set title "Betweenness Centrality vs. HITS Authority / HITS Hub\nBerlin"
 # set y2range [0:1]
 set ylabel "HITS Authority"
 set y2label "HITS Hub"
+set y2tics
+set ytics nomirror
 set xlabel "Betweenness Centrality"
-plot "berlin_full_graphing_3d" using 2:3 axis x1y1 title "authority", \
+plot "city_full_ranking_graph" using 2:3 axis x1y1 title "authority", \
  "" using 2:4 axis x1y2 title "hub"
 
-set output "berlin_2d_plot_authhub.eps"
-set title "HITS Authority / HITS Hub\nBerlin"
+set output "city_2d_plot_authhub.eps"
+set title "HITS Authority / HITS Hub\nCity"
 # set logscale x
 # set logscale y
 set xlabel "HITS Authority"
 set ylabel "HITS Hub"
-plot "berlin_full_graphing_3d" using 3:4 axis x1y1 title "HITS"
+plot "city_full_ranking_graph" using 3:4 axis x1y1 title "HITS"
